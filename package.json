@@ -1,6 +1,6 @@
 {
   "name": "marvel-multiverse",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "private": true,
   "description": "Connected Marvel fan world with 13 pixel landscapes, 55 illustrated puppet loops, and a searchable archive",
   "type": "module",
@@ -13,6 +13,7 @@
     "test": "node --test tests/*.test.mjs",
     "check": "node --check public/js/app.js && node --check public/js/world.js && node --check public/js/data.js && node --check public/world/app.js && node --check public/world/world.js && node --check public/world/data.js",
     "standalone": "npm run build && node scripts/standalone.mjs",
-    "prepare:world": "node scripts/prepare-connected-world.mjs"
+    "prepare:world": "node scripts/prepare-connected-world.mjs",
+    "verify:assets": "node scripts/verify-assets.mjs"
   }
 }

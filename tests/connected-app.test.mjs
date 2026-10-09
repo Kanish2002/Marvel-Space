@@ -31,4 +31,14 @@ test('connected app mounts, changes locations, searches portraits, selects resid
   await node('pause').click();assert.equal(node('pause').getAttribute('aria-pressed'),'true');await node('pause').click();assert.equal(node('pause').getAttribute('aria-pressed'),'false');await node('labels').click();assert.equal(node('labels').getAttribute('aria-pressed'),'false');
   await node('plus').click();const zoom=node('zoom').textContent;await node('minus').click();assert.notEqual(node('zoom').textContent,zoom);
   await node('close').click();assert(node('inspector').hidden);assert(frames.length>0);
+  // A delayed directory selection must not reopen its inspector after the
+  // visitor has navigated elsewhere. The directory itself opens immediately.
+  const pending=[];globalThis.Image=class{set src(v){pending.push(()=>this.onload?.());}};
+  await node('archive').click();node('search').value='Cyclops';await node('search').fire('input');
+  const selection=node('grid').querySelectorAll('button')[0].click();
+  await node('locations').children.find(e=>e.dataset.place==='titan').click();
+  assert.equal(node('placeName').textContent,'Titan');assert(node('inspector').hidden);
+  await node('archive').click();assert(node('directory').open);
+  while(pending.length)pending.shift()();await selection;
+  assert.equal(node('placeName').textContent,'Titan');assert(node('inspector').hidden);
 });

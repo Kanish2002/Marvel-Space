@@ -2,12 +2,12 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile,stat} from 'node:fs/promises';
 import {PLACES,TILE,actorBounds,frameAt,filterCharacters} from '../public/world/data.js';
-import {PixelWorld,screenToWorld,zoomAt,drawActor} from '../public/world/world.js';
+import {PixelWorld,screenToWorld,zoomAt,drawActor,IMAGE_TIMEOUT_MS} from '../public/world/world.js';
 const base=new URL('../public/world/',import.meta.url);
 const {actors}=JSON.parse(await readFile(new URL('sprites.json',base)));
 const catalogue=JSON.parse(await readFile(new URL('catalogue.json',base)));
 function context(){const numbers=[];let balance=0;const target={numbers,get balance(){return balance;},save(){balance++;},restore(){balance--;assert(balance>=0);},measureText(s){return {width:s.length*7};},createRadialGradient(){return {addColorStop(){}};}};return new Proxy(target,{get:(t,k)=>k in t?t[k]:(...args)=>{for(const a of args)if(typeof a==='number'){assert(Number.isFinite(a),k+' emitted a non-finite number');numbers.push(a);}}});}
-function globals(){globalThis.matchMedia=()=>({matches:false});globalThis.ResizeObserver=class{observe(){}disconnect(){}};globalThis.devicePixelRatio=1;globalThis.requestAnimationFrame=()=>1;globalThis.cancelAnimationFrame=()=>{};globalThis.document={hidden:false};globalThis.Image=class{set src(v){this.url=v;queueMicrotask(()=>this.onload());}};}
+function globals(){globalThis.matchMedia=()=>({matches:false});globalThis.ResizeObserver=class{observe(){}disconnect(){}};globalThis.devicePixelRatio=1;globalThis.requestAnimationFrame=()=>1;globalThis.cancelAnimationFrame=()=>{};globalThis.document={hidden:false};globalThis.Image=class{set src(v){this.url=v;queueMicrotask(()=>this.onload?.());}};}
 function makeWorld(){globals();const c=context(),canvas={style:{},width:1200,height:900,getContext:()=>c,getBoundingClientRect:()=>({width:1200,height:900,left:0,top:0}),addEventListener(){},removeEventListener(){},setPointerCapture(){}};return new PixelWorld(canvas,actors);}
 
 test('all 13 inspected backgrounds and all 55 reused sheets exist; frames and placements stay within valid bounds',async()=>{
@@ -34,7 +34,47 @@ test('overview loads landscapes only; focus restores sheets and selection; stale
   const focus=w.focusActor(a);await w.focusPlace('titan');await focus;assert.equal(w.place,'titan');assert.equal(w.camera.x,PLACES.find(p=>p.id==='titan').x+TILE/2);w.destroy();
 });
 test('failed image requests can retry; pinch completion never selects a resident',async()=>{
-  const w=makeWorld();await w.loadPlace('avengers');let attempts=0;globalThis.Image=class{set src(v){queueMicrotask(()=>++attempts===1?this.onerror():this.onload());}};
+  const w=makeWorld();await w.loadPlace('avengers');let attempts=0;globalThis.Image=class{set src(v){queueMicrotask(()=>++attempts===1?this.onerror?.():this.onload?.());}};
   await assert.rejects(w.load('missing-test.webp'));await w.load('missing-test.webp');assert.equal(attempts,2);
   let selected=0;w.onSelect=()=>selected++;w.down({pointerId:1,clientX:200,clientY:200});w.down({pointerId:2,clientX:300,clientY:200});w.move({pointerId:2,clientX:350,clientY:200});w.up({pointerId:2},false);w.up({pointerId:1},false);assert.equal(selected,0);w.destroy();
+});
+test('keyboard panning supersedes pending character focus and updates the centered location',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');
+  const pending=[];globalThis.Image=class{set src(v){pending.push(()=>this.onload?.());}};
+  const focus=w.focusActor(actors.find(a=>a.id==='cyclops'));
+  const target=PLACES.find(p=>p.id==='titan');
+  w.pan(target.x+TILE/2-w.camera.x,target.y+TILE/2-w.camera.y);
+  const camera={...w.camera};assert.equal(w.place,'titan');
+  while(pending.length)pending.shift()();
+  assert.equal(await focus,false);assert.deepEqual(w.camera,camera);w.destroy();
+});
+test('paused and hidden scenes do not keep painting, but interaction and resumed animation repaint',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');let paints=0;w.draw=()=>paints++;
+  w.paused=true;w.frame(100);w.frame(116);w.frame(132);assert.equal(paints,1);assert.equal(w.time,0);
+  w.zoom(1.1);w.frame(148);assert.equal(paints,2);
+  document.hidden=true;w.invalidate();w.frame(164);assert.equal(paints,2);
+  document.hidden=false;w.frame(180);assert.equal(paints,3);
+  w.paused=false;w.frame(196);w.frame(212);assert.equal(paints,5);assert(w.time>0);w.destroy();
+});
+test('stalled image requests time out, free the bounded loader, and can retry',async t=>{
+  const w=makeWorld();await w.loadPlace('avengers');
+  t.mock.timers.enable({apis:['setTimeout']});
+  globalThis.Image=class{set src(v){}};
+  const loads=Array.from({length:5},(_,i)=>w.load(`stalled-${i}.webp`));
+  const results=Promise.allSettled(loads);
+  assert.equal(w.running,4);assert.equal(w.queue.length,1);
+  t.mock.timers.tick(IMAGE_TIMEOUT_MS);await Promise.resolve();
+  assert.equal(w.running,1);assert.equal(w.queue.length,0);
+  t.mock.timers.tick(IMAGE_TIMEOUT_MS);assert((await results).every(r=>r.status==='rejected'));
+  assert.equal(w.running,0);assert.equal(w.inflight.size,0);
+  globalThis.Image=class{set src(v){queueMicrotask(()=>this.onload?.());}};
+  await w.load('stalled-0.webp');assert(w.images.has('stalled-0.webp'));w.destroy();
+});
+test('closing the world settles running and queued image requests without retaining late images',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');
+  globalThis.Image=class{set src(v){}};
+  const pending=Array.from({length:6},(_,i)=>w.load(`closing-${i}.webp`));const results=Promise.allSettled(pending);
+  w.destroy();assert((await results).every(r=>r.status==='rejected'));
+  assert.equal(w.running,0);assert.equal(w.queue.length,0);assert.equal(w.pendingImages.size,0);assert.equal(w.images.size,0);
+  await assert.rejects(w.load('after-close.webp'),/closed/);
 });

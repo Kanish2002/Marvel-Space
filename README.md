@@ -1,5 +1,3 @@
-> **Upload checkpoint:** 63 artwork files remain to be transferred. See [PUSH_STATUS.md](PUSH_STATUS.md) for the complete pending list. This checkpoint is not yet a complete runnable deployment.
-
 # Marvel Space · Connected multiverse
 
 Explore 13 detailed pixel-art locations across one continuous canvas. The latest connected-world edition is now the default page. The previous illustrated scene viewer remains available at `/illustrated.html`.
@@ -22,10 +20,11 @@ Requires Node.js 20+:
 npm run dev
 npm run check
 npm test
+npm run verify:assets
 npm run build
 ```
 
-`npm run dev` serves `public/`. The static build is `dist/`; Vercel configuration is included. Import the repository with **Other** as the framework, **npm run build** as the build command, and **dist** as the output directory.
+`npm run dev` serves `public/`. The static build is `dist/`; Vercel configuration is included. Import the repository with **Other** as the framework, the repository root as **Root Directory**, **npm run build** as the build command, and **dist** as the output directory. No environment variables or API keys are needed. The build rejects missing or empty required artwork before copying the site.
 
 The default page opens the connected world. `/world/` opens the same world directly. `/illustrated.html` opens the previous illustrated edition. `npm run standalone` exports that older illustrated edition as a self-contained HTML file.
 
@@ -57,7 +56,7 @@ The overview loads backgrounds without decoding all 55 large sprite sheets. Artw
 
 ## Verification and remaining work
 
-The 15 tests cover both editions’ real application handlers, archive filtering and selection, the complete local asset graph, atlas/crop bounds, negative-time and period wrapping, pointer-anchored zoom, pinch selection suppression, retryable image requests, stale focus isolation, landscape-only overview loading and finite balanced drawing commands for every effect.
+The 20 tests cover both editions’ real application handlers, archive filtering and selection, the complete local asset graph, interrupted artwork transfers, atlas/crop bounds, negative-time and period wrapping, pointer-anchored zoom, pinch selection suppression, retryable and timed-out image requests, stale focus isolation, keyboard panning, paused and hidden redraw behavior, loader cleanup, landscape-only overview loading and finite balanced drawing commands for every effect.
 
 All 13 connected-world scenes were rendered and visually inspected. Browser layout, physical touch gestures and device performance have not been verified in this environment. These checks do not substitute for browser QA.
 
