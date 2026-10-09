@@ -1,0 +1,171 @@
+[
+  {
+    "place": "avengers",
+    "source": "exec-ae208747-d19c-4a73-b4ec-2df487fa7165.png",
+    "source_sha256": "abc30c25f02779cc482d2ef6f8a89f7d11ba34a006e51e4746a55d87ab3309ae",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1254,
+      "height": 1254
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "sanctum",
+    "source": "exec-f24a8f7f-65e6-4ec7-8cf0-7432907a710e.png",
+    "source_sha256": "d97c106c96189a9d50b15a62cc1b7982477351f0df9c26905bdd14fa06555a13",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "xavier",
+    "source": "exec-f24a8f7f-65e6-4ec7-8cf0-7432907a710e.png",
+    "source_sha256": "d97c106c96189a9d50b15a62cc1b7982477351f0df9c26905bdd14fa06555a13",
+    "crop": {
+      "left": 627,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "baxter",
+    "source": "exec-f24a8f7f-65e6-4ec7-8cf0-7432907a710e.png",
+    "source_sha256": "d97c106c96189a9d50b15a62cc1b7982477351f0df9c26905bdd14fa06555a13",
+    "crop": {
+      "left": 0,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "queens",
+    "source": "exec-f24a8f7f-65e6-4ec7-8cf0-7432907a710e.png",
+    "source_sha256": "d97c106c96189a9d50b15a62cc1b7982477351f0df9c26905bdd14fa06555a13",
+    "crop": {
+      "left": 627,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "wakanda",
+    "source": "exec-da2336ef-af96-4641-a45e-5dbd3e2d9533.png",
+    "source_sha256": "d25ec6b327229d7ca29111c83aca60812dd06f04c70b70e9bd14332f1056a5b7",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "asgard",
+    "source": "exec-da2336ef-af96-4641-a45e-5dbd3e2d9533.png",
+    "source_sha256": "d25ec6b327229d7ca29111c83aca60812dd06f04c70b70e9bd14332f1056a5b7",
+    "crop": {
+      "left": 627,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "latveria",
+    "source": "exec-da2336ef-af96-4641-a45e-5dbd3e2d9533.png",
+    "source_sha256": "d25ec6b327229d7ca29111c83aca60812dd06f04c70b70e9bd14332f1056a5b7",
+    "crop": {
+      "left": 0,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "attilan",
+    "source": "exec-da2336ef-af96-4641-a45e-5dbd3e2d9533.png",
+    "source_sha256": "d25ec6b327229d7ca29111c83aca60812dd06f04c70b70e9bd14332f1056a5b7",
+    "crop": {
+      "left": 627,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "knowhere",
+    "source": "exec-44b68401-9e24-402c-b95c-4024c12d1069.png",
+    "source_sha256": "6943dda416dec80d96ba7b719b664f424578187d10add87375be1fd97fc848db",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "titan",
+    "source": "exec-44b68401-9e24-402c-b95c-4024c12d1069.png",
+    "source_sha256": "6943dda416dec80d96ba7b719b664f424578187d10add87375be1fd97fc848db",
+    "crop": {
+      "left": 627,
+      "top": 0,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "kamar",
+    "source": "exec-44b68401-9e24-402c-b95c-4024c12d1069.png",
+    "source_sha256": "6943dda416dec80d96ba7b719b664f424578187d10add87375be1fd97fc848db",
+    "crop": {
+      "left": 0,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  },
+  {
+    "place": "madripoor",
+    "source": "exec-44b68401-9e24-402c-b95c-4024c12d1069.png",
+    "source_sha256": "6943dda416dec80d96ba7b719b664f424578187d10add87375be1fd97fc848db",
+    "crop": {
+      "left": 627,
+      "top": 627,
+      "width": 627,
+      "height": 627
+    },
+    "generation": "imagegen",
+    "character_art": "separate existing illustrated sheets"
+  }
+]

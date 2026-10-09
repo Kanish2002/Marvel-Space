@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.qa/
+
+.work/
+docs/*-preview.png
+docs/location-contact-sheet.png
+
+marvel-multiverse.html
+marvel-multiverse.zip
+work-in-progress/pixel-world/dist/
+work-in-progress/pixel-world/node_modules/

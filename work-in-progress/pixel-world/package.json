@@ -1,0 +1,1 @@
+{"name":"marvel-pixel-world","version":"3.0.0","private":true,"type":"module","engines":{"node":">=20"},"scripts":{"build":"node scripts/build.mjs","check":"node --check public/app.js && node --check public/world.js && node --check public/data.js","test":"node --test tests/*.test.mjs"}}

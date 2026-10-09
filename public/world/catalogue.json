@@ -1,0 +1,7318 @@
+[
+  {
+    "id": "gorr-the-god-butcher",
+    "name": "Gorr the God Butcher",
+    "identity": "Gorr the God Butcher",
+    "realm": "asgard",
+    "effect": "shadow",
+    "task": "Drawing the Necrosword’s shadows inward",
+    "color": "#a59bbe",
+    "status": "animated",
+    "body": "assets/characters/gorr-the-god-butcher.webp",
+    "sheet": "assets/characters/gorr-the-god-butcher-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 0,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260911/41360_1313617.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/gorr-the-god-butcher.webp",
+    "x": 296,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "the-hood",
+    "name": "The Hood",
+    "identity": "The Hood",
+    "realm": "latveria",
+    "effect": "shadow",
+    "task": "Maintaining a dark-magic circle",
+    "color": "#bd91d7",
+    "status": "animated",
+    "body": "assets/characters/the-hood.webp",
+    "sheet": "assets/characters/the-hood-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 0.41,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260807/41360_1310474.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/the-hood.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "jubilee",
+    "name": "Jubilee",
+    "identity": "Jubilation Lee",
+    "realm": "xavier",
+    "effect": "fireworks",
+    "task": "Sketching fireworks above the courtyard",
+    "color": "#e8a2ed",
+    "status": "animated",
+    "body": "assets/characters/jubilee.webp",
+    "sheet": "assets/characters/jubilee-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 0.82,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260707/41360_1306826.html",
+    "alignment": "good",
+    "aliases": [
+      "Jubes"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 296,
+    "y": 740,
+    "height": 210,
+    "portraitPosition": {
+      "column": 5,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "identity": "Scott Summers",
+    "realm": "xavier",
+    "effect": "optic",
+    "task": "Checking a sweeping optic-beam calibration",
+    "color": "#ed7976",
+    "status": "animated",
+    "body": "assets/characters/cyclops.webp",
+    "sheet": "assets/characters/cyclops-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 1.23,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260611/41360_1303977.html",
+    "alignment": "good",
+    "aliases": [
+      "Scotty",
+      "Cyke",
+      "Slim",
+      "Fearless Leader",
+      "One-Eye",
+      "Erik the Red",
+      "Slym Dayspring",
+      "Mutate 007",
+      "Apocalypse"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 532,
+    "y": 740,
+    "height": 210,
+    "portraitPosition": {
+      "column": 6,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "devil-dinosaur",
+    "name": "Devil Dinosaur",
+    "identity": "Devil Dinosaur",
+    "realm": "queens",
+    "effect": "shockwave",
+    "task": "Making the rooftop tremble with a dinosaur rumble",
+    "color": "#e57b70",
+    "status": "animated",
+    "body": "assets/characters/devil-dinosaur.webp",
+    "sheet": "assets/characters/devil-dinosaur-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 1.64,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260514/41360_1300391.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/devil-dinosaur.webp",
+    "x": 296,
+    "y": 740,
+    "height": 265
+  },
+  {
+    "id": "black-cat",
+    "name": "Black Cat",
+    "identity": "Felicia Hardy",
+    "realm": "queens",
+    "effect": "luck",
+    "task": "Watching a shimmer of improbable good luck",
+    "color": "#d2dbe8",
+    "status": "animated",
+    "body": "assets/characters/black-cat.webp",
+    "sheet": "assets/characters/black-cat-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 2.05,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260416/41360_1296480.html",
+    "alignment": "good",
+    "aliases": [
+      "Felicity Harmon"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 3,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "white-fox",
+    "name": "White Fox",
+    "identity": "White Fox",
+    "realm": "hellskitchen",
+    "effect": "illusion",
+    "task": "Gathering a pale fox-spirit afterimage",
+    "color": "#d4e3eb",
+    "status": "animated",
+    "body": "assets/characters/white-fox.webp",
+    "sheet": "assets/characters/white-fox-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 2.46,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260320/41360_1292187.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/white-fox.webp",
+    "x": 296,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "elsa-bloodstone",
+    "name": "Elsa Bloodstone",
+    "identity": "Elsa Bloodstone",
+    "realm": "hellskitchen",
+    "effect": "cosmic",
+    "task": "Charging the Bloodstone’s crimson aura",
+    "color": "#ed9589",
+    "status": "animated",
+    "body": "assets/characters/elsa-bloodstone.webp",
+    "sheet": "assets/characters/elsa-bloodstone-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 2.8699999999999997,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260212/41360_1286981.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/elsa-bloodstone.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "deadpool",
+    "name": "Deadpool",
+    "identity": "Wade Wilson",
+    "realm": "xavier",
+    "effect": "target",
+    "task": "Distracting a tracking target with neon mischief",
+    "color": "#e8868d",
+    "status": "animated",
+    "body": "assets/characters/deadpool.webp",
+    "sheet": "assets/characters/deadpool-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 3.28,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20260115/41360_1281973.html",
+    "alignment": "neutral",
+    "aliases": [
+      "Wade Wilson",
+      "Jack",
+      "Chiyonosake (\"the Wolf of the Rice Wine\")",
+      "Rhodes",
+      "Corpus",
+      "Lopez",
+      "Hobgoblin",
+      "Thom Cruz",
+      "Peter Parker"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 210,
+    "portraitPosition": {
+      "column": 12,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "rogue",
+    "name": "Rogue",
+    "identity": "Anna Marie",
+    "realm": "xavier",
+    "effect": "aura",
+    "task": "Testing the limits of an absorbed-energy aura",
+    "color": "#a9d48a",
+    "status": "animated",
+    "body": "assets/characters/rogue.webp",
+    "sheet": "assets/characters/rogue-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 3.69,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20251212/41360_1276333.html",
+    "alignment": "good",
+    "aliases": [
+      "Anna Raven",
+      "Doctor Kellogg",
+      "Mutate 9602",
+      "Irene Adler",
+      "Miss Smith"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 210,
+    "portraitPosition": {
+      "column": 6,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "gambit",
+    "name": "Gambit",
+    "identity": "Remy Etienne LeBeau",
+    "realm": "xavier",
+    "effect": "cards",
+    "task": "Charging a fan of orbiting playing cards",
+    "color": "#df93e8",
+    "status": "animated",
+    "body": "assets/characters/gambit.webp",
+    "sheet": "assets/characters/gambit-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 4.1,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20251114/41360_1270998.html",
+    "alignment": "good",
+    "aliases": [
+      "Death",
+      "Le Diable Blanc",
+      "formerly Robert Lord",
+      "Cajun"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 210,
+    "portraitPosition": {
+      "column": 1,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "daredevil",
+    "name": "Daredevil",
+    "identity": "Matt Murdock",
+    "realm": "hellskitchen",
+    "effect": "radar",
+    "task": "Listening through expanding radar rings",
+    "color": "#e38c8e",
+    "status": "animated",
+    "body": "assets/characters/daredevil.webp",
+    "sheet": "assets/characters/daredevil-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 4.51,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20251009/41360_1263889.html",
+    "alignment": "good",
+    "aliases": [
+      "Matt",
+      "Jack Batlin",
+      "Kingpin of Crime",
+      "Laurent LeVasseur",
+      "Michael \"Mike\" Murdock",
+      "Scarlet Swashbuckler",
+      "Nameless One",
+      "Kingpin of Hell's Kitchen",
+      "The Man Without Fear",
+      "The Guardian Devil",
+      "DD",
+      "Red",
+      "Hornhead",
+      "Cooper Peyton",
+      "Captain Universe"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 8,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "angela",
+    "name": "Angela",
+    "identity": "Angela",
+    "realm": "asgard",
+    "effect": "blade",
+    "task": "Tracing golden runes around her celestial blade",
+    "color": "#f0c67d",
+    "status": "animated",
+    "body": "assets/characters/angela.webp",
+    "sheet": "assets/characters/angela-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 4.92,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250911/41360_1258873.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/angela.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "blade",
+    "name": "Blade",
+    "identity": "Eric Brooks",
+    "realm": "hellskitchen",
+    "effect": "blade",
+    "task": "Checking a silver-edged vampire-hunting blade",
+    "color": "#b5c9d6",
+    "status": "animated",
+    "body": "assets/characters/blade.webp",
+    "sheet": "assets/characters/blade-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 5.33,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250808/41360_1252733.html",
+    "alignment": "good",
+    "aliases": [
+      "Switchblade",
+      "Frank Blade",
+      "Daywalker"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 11,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "identity": "Phoenix",
+    "realm": "xavier",
+    "effect": "phoenix",
+    "task": "Fanning the wings of a fiery cosmic halo",
+    "color": "#fbc37a",
+    "status": "animated",
+    "body": "assets/characters/phoenix.webp",
+    "sheet": "assets/characters/phoenix-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 5.739999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250710/41360_1246363.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/phoenix.webp",
+    "x": 296,
+    "y": 940,
+    "height": 210
+  },
+  {
+    "id": "ultron",
+    "name": "Ultron",
+    "identity": "Ultron",
+    "realm": "avengers",
+    "effect": "drones",
+    "task": "Synchronizing a constellation of sentry drones",
+    "color": "#e85855",
+    "status": "animated",
+    "body": "assets/characters/ultron.webp",
+    "sheet": "assets/characters/ultron-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 6.1499999999999995,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250529/41360_1237549.html",
+    "alignment": "bad",
+    "aliases": [
+      "Crimson Cowl",
+      "Great Devil",
+      "Great Ultron",
+      "Iron Man",
+      "Mark",
+      "Omega",
+      "Ultimate Ultron",
+      "Ultron-5 (and hundreds of other sequential numerical designations)",
+      "Ultron Mark Twelve",
+      "Ho Yinsen"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 296,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 2,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "emma-frost",
+    "name": "Emma Frost",
+    "identity": "Emma Frost",
+    "realm": "xavier",
+    "effect": "diamond",
+    "task": "Refracting light through a diamond aura",
+    "color": "#d3e7f0",
+    "status": "animated",
+    "body": "assets/characters/emma-frost.webp",
+    "sheet": "assets/characters/emma-frost-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 6.56,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250408/41360_1225547.html",
+    "alignment": "good",
+    "aliases": [
+      "Storm",
+      "White Queen"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 532,
+    "y": 940,
+    "height": 210,
+    "portraitPosition": {
+      "column": 0,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "the-thing",
+    "name": "The Thing",
+    "identity": "Ben Grimm",
+    "realm": "baxter",
+    "effect": "shockwave",
+    "task": "Testing the terrace with a rocky power pulse",
+    "color": "#e4af6c",
+    "status": "animated",
+    "body": "assets/characters/the-thing.webp",
+    "sheet": "assets/characters/the-thing-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 6.97,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250220/41360_1213067.html",
+    "alignment": "good",
+    "aliases": [
+      "Blackbeard the Pirate",
+      "Grim Ben",
+      "Dr. Josiah Verpoorteen"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 325.5,
+    "y": 740,
+    "height": 265,
+    "portraitPosition": {
+      "column": 3,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "human-torch",
+    "name": "Human Torch",
+    "identity": "Johnny Storm",
+    "realm": "baxter",
+    "effect": "fire",
+    "task": "Cycling a halo of rising flame",
+    "color": "#ffae68",
+    "status": "animated",
+    "body": "assets/characters/human-torch.webp",
+    "sheet": "assets/characters/human-torch-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 7.38,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250220/41360_1213050.html",
+    "alignment": "good",
+    "aliases": [
+      "Matchstick Johnny",
+      "Doug Brown"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 620.5,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 4,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "invisible-woman",
+    "name": "Invisible Woman",
+    "identity": "Susan Storm Richards",
+    "realm": "baxter",
+    "effect": "invisible",
+    "task": "Fading inside a protective force field",
+    "color": "#9fdcf4",
+    "status": "animated",
+    "body": "assets/characters/invisible-woman.webp",
+    "sheet": "assets/characters/invisible-woman-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 7.789999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250108/41360_1205353.html",
+    "alignment": "good",
+    "aliases": [
+      "Invisible Girl"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 915.5,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 11,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "mister-fantastic",
+    "name": "Mister Fantastic",
+    "identity": "Reed Richards",
+    "realm": "baxter",
+    "effect": "orbit",
+    "task": "Solving an orbiting molecular projection",
+    "color": "#89c5ed",
+    "status": "animated",
+    "body": "assets/characters/mister-fantastic.webp",
+    "sheet": "assets/characters/mister-fantastic-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 8.2,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20250108/41360_1205352.html",
+    "alignment": "good",
+    "aliases": [
+      "Mr Fantastic"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1210.5,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 8,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "squirrel-girl",
+    "name": "Squirrel Girl",
+    "identity": "Squirrel Girl",
+    "realm": "queens",
+    "effect": "leaves",
+    "task": "Gathering a whirlwind of acorns and leaves",
+    "color": "#d5b88f",
+    "status": "animated",
+    "body": "assets/characters/squirrel-girl.webp",
+    "sheet": "assets/characters/squirrel-girl-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 8.61,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241205/41360_1198132.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/squirrel-girl.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "black-widow",
+    "name": "Black Widow",
+    "identity": "Natasha Romanoff",
+    "realm": "avengers",
+    "effect": "batons",
+    "task": "Cycling electric Widow’s Bite charges",
+    "color": "#8ccfee",
+    "status": "animated",
+    "body": "assets/characters/black-widow.webp",
+    "sheet": "assets/characters/black-widow-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 9.02,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241204/41360_1198106.html",
+    "alignment": "good",
+    "aliases": [
+      "Yelena Belova",
+      "Natasha Romanoff",
+      "Natasha",
+      "Tasha",
+      "Madame Natasha",
+      "Nancy Rushman",
+      "Laura Matthers",
+      "Nadine Roman",
+      "\"Oktober\"",
+      "Black Pearl",
+      "Ebon Flame"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 7,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine",
+    "identity": "Logan",
+    "realm": "xavier",
+    "effect": "claws",
+    "task": "Sharpening an adamantium claw glint",
+    "color": "#e9d281",
+    "status": "animated",
+    "body": "assets/characters/wolverine.webp",
+    "sheet": "assets/characters/wolverine-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 9.43,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241204/41360_1198101.html",
+    "alignment": "good",
+    "aliases": [
+      "Weapon X",
+      "Weapon Ten",
+      "Death",
+      "Mutate 9601",
+      "Jim Logan",
+      "Emilio Garra",
+      "Weapon Chi",
+      "Experiment X",
+      "Agent Ten",
+      "Peter Richards",
+      "Mai kethLogan",
+      "Mr. Patch"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 940,
+    "height": 210,
+    "portraitPosition": {
+      "column": 1,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "cloak-dagger",
+    "name": "Cloak & Dagger",
+    "identity": "Cloak & Dagger",
+    "realm": "sanctum",
+    "effect": "lightdark",
+    "task": "Passing luminous daggers through a cloak of darkness",
+    "color": "#c8b7ee",
+    "status": "animated",
+    "body": "assets/characters/cloak-dagger.webp",
+    "sheet": "assets/characters/cloak-dagger-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 9.84,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241204/41360_1198095.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/cloak-dagger.webp",
+    "x": 296,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "iron-fist",
+    "name": "Iron Fist",
+    "identity": "Danny Rand",
+    "realm": "hellskitchen",
+    "effect": "fist",
+    "task": "Gathering golden chi in his iron fist",
+    "color": "#e9c267",
+    "status": "animated",
+    "body": "assets/characters/iron-fist.webp",
+    "sheet": "assets/characters/iron-fist-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 10.25,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241201/41360_1197227.html",
+    "alignment": "good",
+    "aliases": [
+      "Daredevil",
+      "Daniel Thomas Rand",
+      "the Living Weapon",
+      "Young Dragon",
+      "Danny Rand"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 12,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "psylocke",
+    "name": "Psylocke",
+    "identity": "Elizabeth Braddock",
+    "realm": "xavier",
+    "effect": "blade",
+    "task": "Charging a violet psychic blade",
+    "color": "#c28bea",
+    "status": "animated",
+    "body": "assets/characters/psylocke.webp",
+    "sheet": "assets/characters/psylocke-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 10.66,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241124/41360_1195754.html",
+    "alignment": "good",
+    "aliases": [
+      "Betsy",
+      "Captain Britain",
+      "Lady Mandarin"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 940,
+    "height": 210,
+    "portraitPosition": {
+      "column": 10,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "hawkeye",
+    "name": "Hawkeye",
+    "identity": "Clint Barton",
+    "realm": "avengers",
+    "effect": "target",
+    "task": "Tracking a moving holographic archery target",
+    "color": "#ba8be4",
+    "status": "animated",
+    "body": "assets/characters/hawkeye.webp",
+    "sheet": "assets/characters/hawkeye-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 11.069999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241124/41360_1195753.html",
+    "alignment": "good",
+    "aliases": [
+      "Ronin",
+      "Goliath",
+      "Golden Archer",
+      "the Marksman",
+      "Father Time",
+      "Longbow"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 11,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "iron-man",
+    "name": "Iron Man",
+    "identity": "Tony Stark",
+    "realm": "avengers",
+    "effect": "repulsor",
+    "task": "Hovering through a repulsor diagnostics cycle",
+    "color": "#78dbed",
+    "status": "animated",
+    "body": "assets/characters/iron-man.webp",
+    "sheet": "assets/characters/iron-man-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 11.479999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195687.html",
+    "alignment": "good",
+    "aliases": [
+      "Iron Knight",
+      "Hogan Potts",
+      "Spare Parts Man",
+      "Cobalt Man II",
+      "Crimson Dynamo",
+      "Ironman"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 13,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "moon-knight",
+    "name": "Moon Knight",
+    "identity": "Marc Spector",
+    "realm": "sanctum",
+    "effect": "crescent",
+    "task": "Orbiting crescent darts under a lunar halo",
+    "color": "#dbe5ee",
+    "status": "animated",
+    "body": "assets/characters/moon-knight.webp",
+    "sheet": "assets/characters/moon-knight-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 11.889999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195685.html",
+    "alignment": "good",
+    "aliases": [
+      "Jake Lockley",
+      "Steven Grant",
+      "Yitzak Topol",
+      "Fist of Khonshu",
+      "Crescent Crusader",
+      "Lunar Legionnaire"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 0,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "namor",
+    "name": "Namor",
+    "identity": "Namor McKenzie",
+    "realm": "wakanda",
+    "effect": "water",
+    "task": "Raising a tidal ring around the terrace",
+    "color": "#68cfdf",
+    "status": "animated",
+    "body": "assets/characters/namor.webp",
+    "sheet": "assets/characters/namor-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 12.299999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195686.html",
+    "alignment": "good",
+    "aliases": [
+      "Imperius Rex",
+      "Dr. G.W. Falton",
+      "Sub-Mariner",
+      "\"Subby\"",
+      "Namor the First",
+      "Avenging Son",
+      "Old Man",
+      "Rex",
+      "Joe Pierre",
+      "Lord of the Seven Seas",
+      "the Scion of the Deep",
+      "Phoenix"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 374.6666666666667,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 8,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "star-lord",
+    "name": "Star-Lord",
+    "identity": "Peter Jason Quill",
+    "realm": "knowhere",
+    "effect": "music",
+    "task": "Keeping a dance beat between missions",
+    "color": "#e5b96c",
+    "status": "animated",
+    "body": "assets/characters/star-lord.webp",
+    "sheet": "assets/characters/star-lord-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 12.709999999999999,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195683.html",
+    "alignment": "good",
+    "aliases": [
+      "Starlord"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 296,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 9,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "scarlet-witch",
+    "name": "Scarlet Witch",
+    "identity": "Wanda Maximoff",
+    "realm": "sanctum",
+    "effect": "chaos",
+    "task": "Weaving two orbiting chaos-magic spheres",
+    "color": "#f25b71",
+    "status": "animated",
+    "body": "assets/characters/scarlet-witch.webp",
+    "sheet": "assets/characters/scarlet-witch-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 13.12,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195684.html",
+    "alignment": "bad",
+    "aliases": [
+      "Wanda Frank",
+      "Wanda Magnus",
+      "Ana Maximoff",
+      "Gypsy Witch",
+      "The Witch"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 12,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "winter-soldier",
+    "name": "Winter Soldier",
+    "identity": "Bucky Barnes",
+    "realm": "avengers",
+    "effect": "scan",
+    "task": "Checking his vibranium arm’s tactical scanner",
+    "color": "#a6d6ef",
+    "status": "animated",
+    "body": "assets/characters/winter-soldier.webp",
+    "sheet": "assets/characters/winter-soldier-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 13.53,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195681.html",
+    "alignment": "good",
+    "aliases": [
+      "Bucky",
+      "Captain America"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 13,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "magik",
+    "name": "Magik",
+    "identity": "Magik",
+    "realm": "sanctum",
+    "effect": "blade",
+    "task": "Opening a stepping disc around her Soulsword",
+    "color": "#f4cb71",
+    "status": "animated",
+    "body": "assets/characters/magik.webp",
+    "sheet": "assets/characters/magik-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 13.94,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195682.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/magik.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "spider-man",
+    "name": "Spider-Man",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "effect": "web",
+    "task": "Casting and dissolving a circular web pattern",
+    "color": "#cad9e8",
+    "status": "animated",
+    "body": "assets/characters/spider-man.webp",
+    "sheet": "assets/characters/spider-man-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 14.35,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195680.html",
+    "alignment": "good",
+    "aliases": [
+      "Spiderman",
+      "Bag-Man",
+      "Black Marvel",
+      "Captain Universe",
+      "Dusk",
+      "Green Hood",
+      "Hornet",
+      "Mad Dog 336",
+      "Peter Palmer",
+      "Prodigy",
+      "Ricochet",
+      "Scarlet Spider",
+      "Spider-Boy",
+      "Spider-Hulk",
+      "Spider-Morphosis"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 5,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "black-panther",
+    "name": "Black Panther",
+    "identity": "T'Challa",
+    "realm": "wakanda",
+    "effect": "kinetic",
+    "task": "Absorbing and releasing violet kinetic energy",
+    "color": "#b88cf1",
+    "status": "animated",
+    "body": "assets/characters/black-panther.webp",
+    "sheet": "assets/characters/black-panther-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 14.76,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195677.html",
+    "alignment": "good",
+    "aliases": [
+      "Mr. Okonkwo",
+      "The Man Without Fear",
+      "Luke Charles",
+      "Black Leopard",
+      "the Client",
+      "Coal Tiger",
+      "has impersonated Daredevil and others on occasion"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 6,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "hela",
+    "name": "Hela",
+    "identity": "Hela",
+    "realm": "asgard",
+    "effect": "blades",
+    "task": "Summoning a ring of obsidian blades",
+    "color": "#86c597",
+    "status": "animated",
+    "body": "assets/characters/hela.webp",
+    "sheet": "assets/characters/hela-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 15.17,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195676.html",
+    "alignment": "bad",
+    "aliases": [
+      "Goddess of Death"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 13,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "storm",
+    "name": "Storm",
+    "identity": "Ororo Munroe",
+    "realm": "wakanda",
+    "effect": "weather",
+    "task": "Gathering a miniature thundercloud",
+    "color": "#abd7ee",
+    "status": "animated",
+    "body": "assets/characters/storm.webp",
+    "sheet": "assets/characters/storm-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 15.579999999999998,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195675.html",
+    "alignment": "good",
+    "aliases": [
+      "Ororo Iqadi T'Challa",
+      "Queen Ororo",
+      "Ororo Komo Wakandas,White Queen",
+      "Weather Witch",
+      "Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1161.3333333333333,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 11,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "hulk",
+    "name": "Hulk",
+    "identity": "Bruce Banner",
+    "realm": "avengers",
+    "effect": "shockwave",
+    "task": "Charging a ground-shaking power pulse",
+    "color": "#91c86b",
+    "status": "animated",
+    "body": "assets/characters/hulk.webp",
+    "sheet": "assets/characters/hulk-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 15.989999999999998,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195678.html",
+    "alignment": "good",
+    "aliases": [
+      "Annihilator",
+      "Captain Universe",
+      "Joe Fixit",
+      "Mr. Fixit",
+      "Mechano",
+      "Professor",
+      "Jade Jaws",
+      "Golly Green Giant"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 571.3333333333334,
+    "y": 940,
+    "height": 265,
+    "portraitPosition": {
+      "column": 3,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "jeff-the-land-shark",
+    "name": "Jeff the Land Shark",
+    "identity": "Jeff the Land Shark",
+    "realm": "knowhere",
+    "effect": "bubbles",
+    "task": "Blowing a very enthusiastic trail of bubbles",
+    "color": "#99dce9",
+    "status": "animated",
+    "body": "assets/characters/jeff-the-land-shark.webp",
+    "sheet": "assets/characters/jeff-the-land-shark-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 16.4,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195674.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/jeff-the-land-shark.webp",
+    "x": 532,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "the-punisher",
+    "name": "Punisher",
+    "identity": "Frank Castle",
+    "realm": "hellskitchen",
+    "effect": "scan",
+    "task": "Sweeping a rooftop with a tactical scanner",
+    "color": "#a8bfd0",
+    "status": "animated",
+    "body": "assets/characters/the-punisher.webp",
+    "sheet": "assets/characters/the-punisher-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 16.81,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195673.html",
+    "alignment": "good",
+    "aliases": [
+      "Big Nothing",
+      "Major Bateman",
+      "Ted Bishop",
+      "Cliff Callador",
+      "Castigo",
+      "Chaloner",
+      "Fred D'Amato",
+      "Eastman",
+      "Charles Fort",
+      "Frank Loomis",
+      "McRook",
+      "Melchior",
+      "Joe Rainey",
+      "Frank Rook",
+      "Richard Rook",
+      "Tony Knowlen Ross",
+      "Francis Stronghold",
+      "Johnny Tower",
+      "Dmitri Velikoff",
+      "Fra"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 768,
+    "y": 940,
+    "height": 230,
+    "portraitPosition": {
+      "column": 11,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "luna-snow",
+    "name": "Luna Snow",
+    "identity": "Luna Snow",
+    "realm": "knowhere",
+    "effect": "snow",
+    "task": "Spinning a miniature snow crystal",
+    "color": "#b7dcf4",
+    "status": "animated",
+    "body": "assets/characters/luna-snow.webp",
+    "sheet": "assets/characters/luna-snow-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 17.22,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195671.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/luna-snow.webp",
+    "x": 768,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "adam-warlock",
+    "name": "Adam Warlock",
+    "identity": "Adam Warlock",
+    "realm": "knowhere",
+    "effect": "cosmic",
+    "task": "Holding a golden cosmic energy sphere",
+    "color": "#efd18a",
+    "status": "animated",
+    "body": "assets/characters/adam-warlock.webp",
+    "sheet": "assets/characters/adam-warlock-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 17.63,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195670.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/adam-warlock.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230
+  },
+  {
+    "id": "rocket-raccoon",
+    "name": "Rocket Raccoon",
+    "identity": "Rocket Raccoon",
+    "realm": "knowhere",
+    "effect": "scan",
+    "task": "Scanning the next improbable gadget",
+    "color": "#84ced8",
+    "status": "animated",
+    "body": "assets/characters/rocket-raccoon.webp",
+    "sheet": "assets/characters/rocket-raccoon-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 18.04,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195663.html",
+    "alignment": "good",
+    "aliases": [
+      "Sharpshooting Space Racoon",
+      "Rocky Raccoon",
+      "Ranger Rocket"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 5,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "identity": "Loki Laufeyson",
+    "realm": "asgard",
+    "effect": "illusion",
+    "task": "Splitting into an emerald illusion",
+    "color": "#92db92",
+    "status": "animated",
+    "body": "assets/characters/loki.webp",
+    "sheet": "assets/characters/loki-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 18.45,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195662.html",
+    "alignment": "bad",
+    "aliases": [
+      "God of Mischief",
+      "Gem-Keeper",
+      "Walter Lawson",
+      "Lester",
+      "Loren Olsen",
+      "Tyfon",
+      "Father Williams",
+      "Willie",
+      "Tso Zhung; has also impersonated hundreds of others."
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1004,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 6,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "identity": "Mantis",
+    "realm": "knowhere",
+    "effect": "aura",
+    "task": "Balancing a circle of empathic motes",
+    "color": "#b5df9d",
+    "status": "animated",
+    "body": "assets/characters/mantis.webp",
+    "sheet": "assets/characters/mantis-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 18.86,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195661.html",
+    "alignment": "good",
+    "aliases": [
+      "Celestial Madonna",
+      "Willow",
+      "Lorelei",
+      "Mandy Celestine",
+      "This One (in referring to herself)"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 571.3333333333334,
+    "y": 940,
+    "height": 230,
+    "portraitPosition": {
+      "column": 2,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "peni-parker",
+    "name": "Peni Parker",
+    "identity": "Peni Parker",
+    "realm": "queens",
+    "effect": "drones",
+    "task": "Synchronizing SP//dr sensor lights",
+    "color": "#eaa2ae",
+    "status": "animated",
+    "body": "assets/characters/peni-parker.webp",
+    "sheet": "assets/characters/peni-parker-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.75,
+    "phase": 19.27,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195656.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/peni-parker.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 265
+  },
+  {
+    "id": "thor",
+    "name": "Thor",
+    "identity": "Thor Odinson",
+    "realm": "asgard",
+    "effect": "lightning",
+    "task": "Recharging Mjolnir with forked lightning",
+    "color": "#9edaf6",
+    "status": "animated",
+    "body": "assets/characters/thor.webp",
+    "sheet": "assets/characters/thor-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 5.0600000000000005,
+    "phase": 19.68,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195657.html",
+    "alignment": "good",
+    "aliases": [
+      "Donald Blake",
+      "Sigurd Jarlson",
+      "Jake Olsen",
+      "Donar the Mighty"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 4,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "magneto",
+    "name": "Magneto",
+    "identity": "Erik Magnus Lensherr",
+    "realm": "xavier",
+    "effect": "metal",
+    "task": "Levelling a ring of levitating metal fragments",
+    "color": "#dd889f",
+    "status": "animated",
+    "body": "assets/characters/magneto.webp",
+    "sheet": "assets/characters/magneto-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.2,
+    "phase": 20.09,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195655.html",
+    "alignment": "bad",
+    "aliases": [
+      "The Creator",
+      "Erik Magnus Lehnsherr",
+      "Michael Xavier",
+      "White Pilgrim",
+      "Erik the RedThe Master of Magnetism"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 940,
+    "height": 210,
+    "portraitPosition": {
+      "column": 11,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "venom",
+    "name": "Venom",
+    "identity": "Venom",
+    "realm": "queens",
+    "effect": "symbiote",
+    "task": "Unfurling a writhing symbiote halo",
+    "color": "#b6b4cf",
+    "status": "animated",
+    "body": "assets/characters/venom.webp",
+    "sheet": "assets/characters/venom-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.5100000000000002,
+    "phase": 20.5,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195654.html",
+    "alignment": "neutral",
+    "aliases": [],
+    "portrait": "assets/characters/venom.webp",
+    "x": 768,
+    "y": 940,
+    "height": 265
+  },
+  {
+    "id": "groot",
+    "name": "Groot",
+    "identity": "Groot",
+    "realm": "knowhere",
+    "effect": "leaves",
+    "task": "Growing a spiral of drifting leaves",
+    "color": "#a7cf89",
+    "status": "animated",
+    "body": "assets/characters/groot.webp",
+    "sheet": "assets/characters/groot-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 3.8200000000000003,
+    "phase": 20.91,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195653.html",
+    "alignment": "good",
+    "aliases": [
+      "The Monster from Planet X; His Divine Majesty King Groot the 23rd",
+      "Monarch of Planet X",
+      "custodian of the branch worlds",
+      "ruler of all the shades",
+      "Flora colossus Information-silk"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 964.6666666666666,
+    "y": 940,
+    "height": 265,
+    "portraitPosition": {
+      "column": 9,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "captain-america",
+    "name": "Captain America",
+    "identity": "Steve Rogers",
+    "realm": "avengers",
+    "effect": "shield",
+    "task": "Calibrating a rotating shield hologram",
+    "color": "#70bfe9",
+    "status": "animated",
+    "body": "assets/characters/captain-america.webp",
+    "sheet": "assets/characters/captain-america-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.13,
+    "phase": 21.32,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195652.html",
+    "alignment": "good",
+    "aliases": [
+      "Nomad",
+      "The Captain"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 964.6666666666666,
+    "y": 940,
+    "height": 230,
+    "portraitPosition": {
+      "column": 8,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "doctor-strange",
+    "name": "Doctor Strange",
+    "identity": "Stephen Strange",
+    "realm": "sanctum",
+    "effect": "runes",
+    "task": "Keeping a circular portal spell in balance",
+    "color": "#ffb25f",
+    "status": "animated",
+    "body": "assets/characters/doctor-strange.webp",
+    "sheet": "assets/characters/doctor-strange-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.44,
+    "phase": 21.73,
+    "artStyle": "Marvel Rivals illustration",
+    "source": "https://www.marvelrivals.com/20241123/41360_1195649.html",
+    "alignment": "good",
+    "aliases": [
+      "Sorcerer Supreme",
+      "Master of the Mystic Arts",
+      "Stephen Sanders",
+      "Captain Universe",
+      "Vincent Stevens"
+    ],
+    "portrait": "assets/portraits/atlas.webp",
+    "x": 1240,
+    "y": 740,
+    "height": 230,
+    "portraitPosition": {
+      "column": 6,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-1",
+    "name": "A-Bomb",
+    "identity": "Richard Milhouse Jones",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Rick Jones"
+    ],
+    "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-4",
+    "name": "Abomination",
+    "identity": "Emil Blonsky",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Agent R-7",
+      "Ravager of Worlds"
+    ],
+    "firstAppearance": "Tales to Astonish #90",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-5",
+    "name": "Abraxas",
+    "identity": "Abraxas",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four Annual #2001",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-6",
+    "name": "Absorbing Man",
+    "identity": "Carl Creel",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Greithoth",
+      "\"Crusher\" Creel",
+      "Rocky Davis",
+      "Dynamite Davis",
+      "Lightningbolt",
+      "Prisoner #24957"
+    ],
+    "firstAppearance": "Daredevil #1 (April, 1964) (As Rocky Davis)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-10",
+    "name": "Agent Bob",
+    "identity": "Bob",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Bob",
+      "agent of Hydra",
+      "Bob",
+      "agent of A.I.M"
+    ],
+    "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-11",
+    "name": "Agent Zero",
+    "identity": "Christoph Nord",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Maverick"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-12",
+    "name": "Air-Walker",
+    "identity": "Gabriel Lan",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #120",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-13",
+    "name": "Ajax",
+    "identity": "Francis",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "\"Frankie\"",
+      "the A-Man",
+      "the Attending"
+    ],
+    "firstAppearance": "Deadpool #14 (March, 1998)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-25",
+    "name": "Angel Dust",
+    "identity": "Christina",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Angel",
+      "Dusty"
+    ],
+    "firstAppearance": "Morlocks #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-29",
+    "name": "Annihilus",
+    "identity": "Annihilus",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Living Death That Walks",
+      "Lord of the Negative Zone"
+    ],
+    "firstAppearance": "Fantastic Four Annual #6 (1968)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-30",
+    "name": "Ant-Man",
+    "identity": "Hank Pym",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Hank Pym",
+      "Doctor Pym",
+      "Ant-Man",
+      "Goliath",
+      "Yellowjacket",
+      "Wasp",
+      "Earth's Scientist Supreme"
+    ],
+    "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-31",
+    "name": "Ant-Man II",
+    "identity": "Scott Lang",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Myrmidon",
+      "Scott Edward Harris Lang"
+    ],
+    "firstAppearance": "Avengers Vol 1 #181 (March, 1979)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-35",
+    "name": "Apocalypse",
+    "identity": "En Sabah Nur",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Eternal One",
+      "the High Lord",
+      "Set",
+      "Huitxilopochti",
+      "Sauru",
+      "Kali-Ma"
+    ],
+    "firstAppearance": "X-Factor #5 (June, 1986)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-39",
+    "name": "Arachne",
+    "identity": "Julia Carpenter",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Spider-Woman",
+      "Madame Web"
+    ],
+    "firstAppearance": "Marvel Super Heroes Secret Wars #6",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 0,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-41",
+    "name": "Arclight",
+    "identity": "Philippa Sontag",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-42",
+    "name": "Ardina",
+    "identity": "Ardina",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "The Order #4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-43",
+    "name": "Ares",
+    "identity": "Ares",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "God of War",
+      "Mister Talon",
+      "Mars",
+      "Warhawk"
+    ],
+    "firstAppearance": "Thor #129",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-44",
+    "name": "Ariel",
+    "identity": "Ariel",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fallen Angels #1 (1987)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-45",
+    "name": "Armor",
+    "identity": "Hisako Ichiki",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "X-Girl",
+      "Kid"
+    ],
+    "firstAppearance": "Astonishing X-Men #4 (2004)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-56",
+    "name": "Aurora",
+    "identity": "Jeanne-Marie Beaubier",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Sister Beaubier"
+    ],
+    "firstAppearance": "X-Men #121 (1979)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-57",
+    "name": "Azazel",
+    "identity": "Azazel",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Semihazah",
+      "Duma",
+      "Keriel",
+      "Mastema",
+      "Beliar",
+      "Gadreel",
+      "Beelzebub",
+      "Satan"
+    ],
+    "firstAppearance": "Uncanny X-Men #428 (2003)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-61",
+    "name": "Banshee",
+    "identity": "Sean Cassidy",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Death"
+    ],
+    "firstAppearance": "X-Men #28 (January, 1967)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-62",
+    "name": "Bantam",
+    "identity": "Roberto Velasquez",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-72",
+    "name": "Battlestar",
+    "identity": "Lemar Hoskins",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Bucky"
+    ],
+    "firstAppearance": "Captain America #323 (1986); (as Bucky)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-75",
+    "name": "Beast",
+    "identity": "Henry Philip McCoy",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Dr. McCoy",
+      "Hanko",
+      "Kreature",
+      "Mutate #666",
+      "Magilla Gorilla",
+      "Golden Armed Boy"
+    ],
+    "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-79",
+    "name": "Beta Ray Bill",
+    "identity": "Beta Ray Bill (translation of his Korbinite name)",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Beta Ray Thor",
+      "Simon Walters"
+    ],
+    "firstAppearance": "Thor #337",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-80",
+    "name": "Beyonder",
+    "identity": "Beyonder",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Ataxi",
+      "The Beyond Realm",
+      "Frank",
+      "Goblin Force",
+      "Goblin King",
+      "Goblyn King",
+      "Goblin Queen",
+      "The One From Beyond",
+      "God",
+      "Kosmos",
+      "Maker"
+    ],
+    "firstAppearance": "Marvel Super-Heroes Secret Wars #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-83",
+    "name": "Big Man",
+    "identity": "Frederick Foswell",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Patch"
+    ],
+    "firstAppearance": "Amazing Spider-Man # 10 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 1,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-88",
+    "name": "Bird-Brain",
+    "identity": "Bird-Brain",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Bird-Boy"
+    ],
+    "firstAppearance": "The New Mutants #56 (October, 1987)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-92",
+    "name": "Bishop",
+    "identity": "Lucas Bishop",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Archbishop"
+    ],
+    "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-96",
+    "name": "Black Bolt",
+    "identity": "Blackagar Boltagon",
+    "realm": "attilan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-102",
+    "name": "Black Knight III",
+    "identity": "Dane Whitman",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Pendragon",
+      "Gann Josin",
+      "Eobar Garrington"
+    ],
+    "firstAppearance": "Avengers #47 (1967)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-104",
+    "name": "Black Mamba",
+    "identity": "Tanya Sealy",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Tanya Sweet"
+    ],
+    "firstAppearance": "Marvel Two-In-One #64",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-109",
+    "name": "Blackout",
+    "identity": "Blackout",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-110",
+    "name": "Blackwing",
+    "identity": "Joseph Manfredi",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Blackwing",
+      "Joe Manfredi",
+      "Joe Silvermane",
+      "Guiseppi Manfredi"
+    ],
+    "firstAppearance": "Daredevil #118 (February, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-111",
+    "name": "Blackwulf",
+    "identity": "Lucian",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "-",
+    "aliases": [
+      "Pelops",
+      "Black Wolf"
+    ],
+    "firstAppearance": "Thunderstrike #6 (March, 1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-114",
+    "name": "Bling!",
+    "identity": "Roxanne Washington",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-Men #171 (2005)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-115",
+    "name": "Blink",
+    "identity": "Clarice Ferguson",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 2,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-118",
+    "name": "Blizzard II",
+    "identity": "Donald Gill",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Iron Man #223 (1987)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-119",
+    "name": "Blob",
+    "identity": "Frederick J. Dukes",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-Men #3 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-120",
+    "name": "Bloodaxe",
+    "identity": "Jackie Lukus",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-121",
+    "name": "Bloodhawk",
+    "identity": "Lemuel Krug",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Lemuel Halcon"
+    ],
+    "firstAppearance": "X-Men (2099) #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-141",
+    "name": "Bullseye",
+    "identity": "Lester",
+    "realm": "hellskitchen",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Benjamin Poindexter",
+      "Daredevil",
+      "Punisher",
+      "Bullseye",
+      "Hawkeye",
+      "pitcher"
+    ],
+    "firstAppearance": "Daredevil #131 (March, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-145",
+    "name": "Cable",
+    "identity": "Nathan Summers",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Chosen One",
+      "Soldier X",
+      "Nathan Dayspring",
+      "Askani'son",
+      "Nathan Dayspring Summers",
+      "Nathan Winters",
+      "The Traveller",
+      "The Saviour"
+    ],
+    "firstAppearance": "New Mutants #86 (as Cable)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-146",
+    "name": "Callisto",
+    "identity": "Callisto",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-MEN (first series) #169",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-148",
+    "name": "Cannonball",
+    "identity": "Samuel Zachery Guthrie",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Formerly Samson Guthry",
+      "Sam Guthrie",
+      "Jet-Ass"
+    ],
+    "firstAppearance": "Marvel Graphic Novel #4 (1982)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-151",
+    "name": "Captain Britain",
+    "identity": "Brian Braddock",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Britannic",
+      "Black Bishop",
+      "Jungle Man",
+      "King of Otherworld",
+      "Merlinson"
+    ],
+    "firstAppearance": "Captain Britain #1 (October, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-157",
+    "name": "Captain Marvel",
+    "identity": "Carol Danvers",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Ace",
+      "Binary",
+      "Lady Marvel",
+      "Warbird",
+      "others used during her espionage career"
+    ],
+    "firstAppearance": "Ms. Marvel #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-162",
+    "name": "Carnage",
+    "identity": "Cletus Kasady",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Mass Carnage",
+      "999th"
+    ],
+    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-167",
+    "name": "Century",
+    "identity": "Century",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Force Works #1 (July, 1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-169",
+    "name": "Chamber",
+    "identity": "Jonothon Evan Starsmore",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Decibel",
+      "Jono",
+      "Jono Hex"
+    ],
+    "firstAppearance": "Generation X #1 (November, 1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 3,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-171",
+    "name": "Changeling",
+    "identity": "Kevin Sidney",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Professor X",
+      "Professor Charles Xavier"
+    ],
+    "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-180",
+    "name": "Cloak",
+    "identity": "Tyrone Johnson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Spectacular Spiderman #64",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-185",
+    "name": "Colossus",
+    "identity": "Piotr Nikolaievitch Rasputin",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Pete",
+      "Peter Nicholas",
+      "The Proletarian",
+      "Little Brother"
+    ],
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-186",
+    "name": "Copycat",
+    "identity": "Vanessa Carlysle",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Nurse Veronica",
+      "Patricia Muggins",
+      "Titania",
+      "Garrison Kane",
+      "Christina Valentino",
+      "Domino",
+      "Cheryl Marks",
+      "Debbie",
+      "Marguerite",
+      "Amy"
+    ],
+    "firstAppearance": "New Mutants #98 (February, 1991)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-188",
+    "name": "Cottonmouth",
+    "identity": "Burchell Clemens",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Quincy McIver"
+    ],
+    "firstAppearance": "Captain America #310 (October, 1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-191",
+    "name": "Crystal",
+    "identity": "Crystallia Amaquelin",
+    "realm": "attilan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Crys",
+      "Exquisite Elemental"
+    ],
+    "firstAppearance": "Fantastic Four #45 (1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-198",
+    "name": "Dagger",
+    "identity": "Tandy Bowen",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Lady Light"
+    ],
+    "firstAppearance": "Spectacular Spiderman #64",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-202",
+    "name": "Darkhawk",
+    "identity": "Christopher Powell",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Bucket-Head",
+      "Edge-Man",
+      "Powell"
+    ],
+    "firstAppearance": "Darkhawk #1 (March, 1991)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-206",
+    "name": "Darkstar",
+    "identity": "Laynia Petrovna",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Tyomni Zvesda"
+    ],
+    "firstAppearance": "Champions #7 (August, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-211",
+    "name": "Dazzler",
+    "identity": "Alison Blaire",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Ali",
+      "The Disco Dazzler",
+      "Songbird",
+      "Dazz",
+      "Kimberly Schau",
+      "Ally"
+    ],
+    "firstAppearance": "X-Men #130 (1980)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-215",
+    "name": "Deathlok",
+    "identity": "Luther Manning",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Demolisher"
+    ],
+    "firstAppearance": "Astonishing Tales #25 (August, 1974)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 4,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-217",
+    "name": "Demogoblin",
+    "identity": "Demogoblin",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Jason Macendale Jr"
+    ],
+    "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-218",
+    "name": "Destroyer",
+    "identity": "Destroyer",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Journey into Mystery #118 (1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-219",
+    "name": "Diamondback",
+    "identity": "Willis Stryker",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-221",
+    "name": "Doc Samson",
+    "identity": "Leonard Samson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Incredible Hulk #141 (July, 1971)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-222",
+    "name": "Doctor Doom",
+    "identity": "Victor von Doom",
+    "realm": "latveria",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Master",
+      "Invincible Man"
+    ],
+    "firstAppearance": "Fantastic Four #5 (July 1962)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-225",
+    "name": "Doctor Octopus",
+    "identity": "Otto Octavius",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Doctor Octopus",
+      "Doc Ock",
+      "The Master Planner",
+      "The Master Programmer",
+      "Peter Benjamin Parker",
+      "Superior Spider-Man",
+      "Venom",
+      "Superior Venom"
+    ],
+    "firstAppearance": "Amazing Spider-Man #3 (July 1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-227",
+    "name": "Domino",
+    "identity": "Neena Thurman",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Dom",
+      "Samantha Wu",
+      "Tamara Winter",
+      "Elena Vladescu",
+      "Jessica Marie Costello",
+      "Luisa Mendoza",
+      "Beatrice",
+      "Christina Elizabeth Alioso",
+      "Priscilla Sutherland",
+      "Hope Eldridge"
+    ],
+    "firstAppearance": "X-Force #8 (March, 1992)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-231",
+    "name": "Doppelganger",
+    "identity": "Doppelganger",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Spider-Man Doppelganger",
+      "Spider-Doppelganger",
+      "Mindless One"
+    ],
+    "firstAppearance": "Infinity War #1 (1992)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-232",
+    "name": "Dormammu",
+    "identity": "Dormammu",
+    "realm": "sanctum",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Dread One",
+      "Eater of Souls",
+      "Lord of Chaos",
+      "Lord of Darkness",
+      "the Great Enigma",
+      "Flyx"
+    ],
+    "firstAppearance": "Strange Tales #126 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-234",
+    "name": "Drax the Destroyer",
+    "identity": "Arthur Sampson Douglas",
+    "realm": "knowhere",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Iron Man #55 (February, 1973)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-235",
+    "name": "Ego",
+    "identity": "Ego",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Living Planet"
+    ],
+    "firstAppearance": "THOR #132",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-237",
+    "name": "Electro",
+    "identity": "Maxwell Dillon",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #9 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-238",
+    "name": "Elektra",
+    "identity": "Elektra Natchios",
+    "realm": "hellskitchen",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Erynys (evil self)"
+    ],
+    "firstAppearance": "Daredevil #168",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 5,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-248",
+    "name": "Evilhawk",
+    "identity": "Dargin Bokk",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Darkhawk #20 (October, 1992)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-249",
+    "name": "Exodus",
+    "identity": "Bennet du Paris",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Paris Bennet"
+    ],
+    "firstAppearance": "X-Factor #92 (July, 1993)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-251",
+    "name": "Falcon",
+    "identity": "Sam Wilson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Sam Wilson",
+      "(formerly) Captain America",
+      "Blackbird",
+      "Blackwing",
+      "Brother Superhero"
+    ],
+    "firstAppearance": "Captain America #117 (September, 1969)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-252",
+    "name": "Fallen One II",
+    "identity": "Fallen One II",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-254",
+    "name": "Feral",
+    "identity": "Maria Callasantos",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "NEW MUTANTS #99",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-256",
+    "name": "Fin Fang Foom",
+    "identity": "Fin Fang Foom",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-257",
+    "name": "Firebird",
+    "identity": "Bonita Juarez",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Pajaro Del Fuego",
+      "La Espirita",
+      "Firemaiden"
+    ],
+    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-258",
+    "name": "Firelord",
+    "identity": "Pyreus Kril",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Nova Centurion"
+    ],
+    "firstAppearance": "THOR Vol. 1 #225",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-259",
+    "name": "Firestar",
+    "identity": "Angelica Jones",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Angel",
+      "Anj",
+      "Lady Comet"
+    ],
+    "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-268",
+    "name": "Forge",
+    "identity": "Forge",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Maker",
+      "Cheyenne"
+    ],
+    "firstAppearance": "Uncanny X-Men #184",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-269",
+    "name": "Franklin Richards",
+    "identity": "Franklin  Richards",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Franklin Benjamin",
+      "Tattletale",
+      "Psi-Lord",
+      "Ego-Spawn",
+      "Avatar"
+    ],
+    "firstAppearance": "Fantastic Four Annual #6",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-270",
+    "name": "Franklin Storm",
+    "identity": "Dr. Franklin Storm",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Franklin Storm was erroneously believed to be the first Invincible Man"
+    ],
+    "firstAppearance": "FANTASTIC FOUR #31",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-271",
+    "name": "Frenzy",
+    "identity": "Joanna Cargill",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-Factor Vol 1 #4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 6,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-273",
+    "name": "Galactus",
+    "identity": "Galan",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Maker",
+      "Devourer of Worlds",
+      "Eater-of-Worlds",
+      "Ravager of Worlds"
+    ],
+    "firstAppearance": "Fantastic Four #48 (March 1966)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-275",
+    "name": "Gamora",
+    "identity": "Gamora Zen Whoberi Ben Titan",
+    "realm": "knowhere",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Deadliest Woman In The Universe",
+      "The Most Dangerous Woman in the Galaxy"
+    ],
+    "firstAppearance": "Strange Tales #180 (June, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-280",
+    "name": "Ghost Rider",
+    "identity": "Johnny Blaze",
+    "realm": "sanctum",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-285",
+    "name": "Gladiator",
+    "identity": "Kallark",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Majestor",
+      "Praetor",
+      "Captain Universe"
+    ],
+    "firstAppearance": "X-Men Vol 1 #107 October, 1977",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-286",
+    "name": "Goblin Queen",
+    "identity": "Madelyne Jennifer Pryor",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Anodyne",
+      "Maddie",
+      "Lyne",
+      "Red",
+      "Madelyne Pryor-Summers"
+    ],
+    "firstAppearance": "Uncanny X-Men #168",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-296",
+    "name": "Gravity",
+    "identity": "Greg Willis",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Protector of the Universe"
+    ],
+    "firstAppearance": "Gravity #1 (August, 2005)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-299",
+    "name": "Green Goblin",
+    "identity": "Norman Osborn",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Normie",
+      "Green Goblin",
+      "Goblin Lord",
+      "Overlord",
+      "the Goblin",
+      "\"Gobby\"",
+      "Scrier",
+      "Commander Osborn",
+      "Director Osborn",
+      "Iron Patriot"
+    ],
+    "firstAppearance": "Amazing Spider-Man #14 (July, 1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-300",
+    "name": "Green Goblin II",
+    "identity": "Harold Osborn",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amzing Spide-Man #31",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-311",
+    "name": "Havok",
+    "identity": "Alexander Summers",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Mutant X",
+      "Goblin Prince"
+    ],
+    "firstAppearance": "X-MEN #58",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-314",
+    "name": "Hawkeye II",
+    "identity": "Katherine Elizabeth Bishop",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Kate Bishop"
+    ],
+    "firstAppearance": "Young Avengers #1 (April, 2005)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 7,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-323",
+    "name": "Hellcat",
+    "identity": "Patricia Walker",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Patsy Walker",
+      "Patricia Hellstrom",
+      "The Cat"
+    ],
+    "firstAppearance": "Avengers #144 (February, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-325",
+    "name": "Hercules",
+    "identity": "Heracles",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Spider-Herc",
+      "The Lion of Olympus",
+      "The Defender of Olympus",
+      "The Scion of Olympus",
+      "Prince of Power",
+      "Alcaeus",
+      "Herakles",
+      "Herc",
+      "Harry Cleese",
+      "Victor Tegler",
+      "Agent 74"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-330",
+    "name": "Hope Summers",
+    "identity": "Hope Summers",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Mutant Messiah",
+      "Messiah Child",
+      "Hub",
+      "Throat Slicer",
+      "Little Girl",
+      "Little Momma"
+    ],
+    "firstAppearance": "X-Men Vol 2 #205 (2008)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-335",
+    "name": "Husk",
+    "identity": "Paige Elisabeth Guthrie",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Hayseed"
+    ],
+    "firstAppearance": "Rom Annual #3 (November, 1984)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-336",
+    "name": "Hybrid",
+    "identity": "Scott Washington",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Guardsman Number Six",
+      "Terror of Brooklyn",
+      "Riot ,Phage ",
+      "Lasher",
+      "Agony"
+    ],
+    "firstAppearance": "Venom Along Came A Spider #2 (as Hybrid)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-337",
+    "name": "Hydro-Man",
+    "identity": "Morris Bench",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Morrie"
+    ],
+    "firstAppearance": "Amazing Spider-Man #212 (January, 1981)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-338",
+    "name": "Hyperion",
+    "identity": "Mark Milton",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Mark Milton",
+      "Zhib-Ran",
+      "Mr. Kant",
+      "Marcus Milton"
+    ],
+    "firstAppearance": "Avengers #85",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-339",
+    "name": "Iceman",
+    "identity": "Bobby Drake",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Bobby Drake",
+      "Mister Friese",
+      "Drake Roberts",
+      "Rampage",
+      "Frozen One",
+      "Iceface"
+    ],
+    "firstAppearance": "X-Men #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-343",
+    "name": "Ink",
+    "identity": "Eric Gitter",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Young X-Men #1 (May, 2008)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 8,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-347",
+    "name": "Iron Monger",
+    "identity": "Obadiah Stane",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-350",
+    "name": "Jack of Hearts",
+    "identity": "Jonathan Hart",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-358",
+    "name": "Jennifer Kale",
+    "identity": "Jennifer Kale",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Wendy the Good Little Witch"
+    ],
+    "firstAppearance": "(Adventures into) Fear#11 (1972)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-369",
+    "name": "John Wraith",
+    "identity": "John Wraith",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Wraith-Man",
+      "Kestrel",
+      "Expediter",
+      "Guardian",
+      "Vindicator"
+    ],
+    "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-371",
+    "name": "Jolt",
+    "identity": "Helen Takahama",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Holly Tsuruta",
+      "Hallie Shimosato"
+    ],
+    "firstAppearance": "Thunderbolts #1 (1997)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-374",
+    "name": "Juggernaut",
+    "identity": "Cain Marko",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Kuurth",
+      "Captain Universe"
+    ],
+    "firstAppearance": "X-Men #12 (July, 1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-375",
+    "name": "Junkpile",
+    "identity": "Junkpile",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-Men 2099 #1 (October, 1993)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-376",
+    "name": "Justice",
+    "identity": "Vance Astrovik",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Marvel Boy",
+      "Manglin' John Mahoney",
+      "Astounding Astrovik",
+      "Superhuman Penitentiary Prisoner 344678",
+      "\"Super Tights\""
+    ],
+    "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-391",
+    "name": "Kingpin",
+    "identity": "Wilson Grant Fisk",
+    "realm": "hellskitchen",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Brain Washer",
+      "Harold Howard",
+      "Wilbur"
+    ],
+    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-392",
+    "name": "Klaw",
+    "identity": "Ulysses Klaw",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #53 (August, 1966)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-394",
+    "name": "Kraven II",
+    "identity": "Alyosha Kravinoff",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Spectacular Spider-Man #243 (1997)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-395",
+    "name": "Kraven the Hunter",
+    "identity": "Sergei Kravinoff",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Kraven the Hunter",
+      "World's Greatest Hunter",
+      "the Grim Hunter"
+    ],
+    "firstAppearance": "The Amazing Spider-Man #15 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-400",
+    "name": "Lady Deathstrike",
+    "identity": "Yuriko Oyama",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Ana Cortes"
+    ],
+    "firstAppearance": "Alpha Flight Vol. 1 #33 (1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 9,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-401",
+    "name": "Leader",
+    "identity": "Samuel Sterns",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-402",
+    "name": "Leech",
+    "identity": "Leech",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Uncanny X-Men #179",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-403",
+    "name": "Legion",
+    "identity": "David Haller",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Jack Wayne",
+      "Cyndi",
+      "Jemail Karami",
+      "Daniel Lucas Haller",
+      "Daniel Haller",
+      "Rodney",
+      "Ian",
+      "Lucas",
+      "Fanya",
+      "Boris",
+      "Zachary",
+      "Sylvester",
+      "God-Mutant"
+    ],
+    "firstAppearance": "New Mutants #25 (March, 1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-409",
+    "name": "Living Brain",
+    "identity": "Living Brain",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #8 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-410",
+    "name": "Living Tribunal",
+    "identity": "Living Tribunal",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Living Trinity",
+      "Magistrate",
+      "High Judge of The Multiverse",
+      "Sir"
+    ],
+    "firstAppearance": "Strange Tales #157",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-412",
+    "name": "Lizard",
+    "identity": "Curtis Connors",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #6",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-415",
+    "name": "Longshot",
+    "identity": "Longshot",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Lost Messiah",
+      "The Lucky One"
+    ],
+    "firstAppearance": "Longshot #1 (September, 1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-419",
+    "name": "Luna",
+    "identity": "Luna Maximoff",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-421",
+    "name": "Mach-IV",
+    "identity": "Abner Jenkins",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Beetle",
+      "MACH-I",
+      "MACH-II",
+      "MACH-III",
+      "Matthew"
+    ],
+    "firstAppearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-422",
+    "name": "Machine Man",
+    "identity": "X-51, Aaron Stack",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Sir McHinery",
+      "Mister Machine.Machine Man"
+    ],
+    "firstAppearance": "First appearance unknown",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-425",
+    "name": "Magus",
+    "identity": "Magus",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Warlock's Father"
+    ],
+    "firstAppearance": "New Mutants #18 (1984)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-428",
+    "name": "Man-Thing",
+    "identity": "Dr. Theodore Sallis",
+    "realm": "sanctum",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap"
+    ],
+    "firstAppearance": "Savage Tales #1 (May, 1971)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 10,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-429",
+    "name": "Man-Wolf",
+    "identity": "John Jameson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Stargod",
+      "Vanwolf",
+      "Skywolf"
+    ],
+    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-430",
+    "name": "Mandarin",
+    "identity": "Khan",
+    "realm": "latveria",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Tem Borjigin",
+      "Gene Kahn",
+      "Master Khan",
+      "Zhang Tong",
+      "Mandy"
+    ],
+    "firstAppearance": "Tales of Suspense #50 (February, 1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-433",
+    "name": "Marvel Girl",
+    "identity": "Rachel Anne Summers",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Rachel Grey",
+      "formerly Phoenix",
+      "Mother Askani",
+      "Bright Lady",
+      "Aly'zrn Summerset"
+    ],
+    "firstAppearance": "UNCANNY X-MEN #141",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-438",
+    "name": "Maverick",
+    "identity": "Christopher Bradley",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Chris",
+      "Bolt"
+    ],
+    "firstAppearance": "X-Men Unlimited #8 (1995)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-441",
+    "name": "Medusa",
+    "identity": "Medusalith Amaquelin Boltagon",
+    "realm": "attilan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Madam Medusa",
+      "Queen Medusa"
+    ],
+    "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-443",
+    "name": "Mephisto",
+    "identity": "Mephisto",
+    "realm": "sanctum",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Satan; Mephistopheles",
+      "Lord of Evil",
+      "Prince of Devils",
+      "Prince of Lies",
+      "Lord of the Lower Depths",
+      "Satan",
+      "Beelzebub",
+      "the Devil",
+      "Maya",
+      "Lucifer",
+      "Nick Scratch",
+      "the Friend",
+      "Legion",
+      "numerous others; impersonated Don Blake",
+      "many others"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-452",
+    "name": "Mimic",
+    "identity": "Calvin Montgomery Rankin",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Cal",
+      "Wolverine",
+      "Calvin Rankin"
+    ],
+    "firstAppearance": "Uncanny X-Men #19",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-458",
+    "name": "Mister Knife",
+    "identity": "J'son",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Jason of Spartax",
+      "Jason of Sparta",
+      "Star-Lord",
+      "Mr Knife"
+    ],
+    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-460",
+    "name": "Mister Sinister",
+    "identity": "Nathaniel Essex",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Sinister",
+      "Robert Windsor",
+      "Arnold Bocklin",
+      "Mike Milbury",
+      "Apocalypse",
+      "Steven Shaffran",
+      "Edmond Atkinson",
+      "Nate",
+      "Administrator Pearson",
+      "Nosferatu",
+      "Nathan Milbury",
+      "Pale Man"
+    ],
+    "firstAppearance": "Uncanny X-Men #221 (September, 1987)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-462",
+    "name": "Mockingbird",
+    "identity": "Barbara Morse",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Barbara Morse-Barton",
+      "Roberta Morse",
+      "Agent 19",
+      "Huntress",
+      "Bobbi Van Dyne; once posed as Shooting Star"
+    ],
+    "firstAppearance": "Astonishing Tales #6 (June, 1971)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-463",
+    "name": "MODOK",
+    "identity": "George Tarleton",
+    "realm": "latveria",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "M.O.D.O.K.",
+      "Mental Organism Designed Only for Killing"
+    ],
+    "firstAppearance": "Tales of Suspense #93",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-467",
+    "name": "Molten Man",
+    "identity": "Mark Raxton",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #28 (1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 11,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-471",
+    "name": "Moonstone",
+    "identity": "Karla Sofen",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Meteorite",
+      " Kate Sorenson"
+    ],
+    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-472",
+    "name": "Morlun",
+    "identity": "Morlun",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #30 (2001)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-474",
+    "name": "Moses Magnum",
+    "identity": "Moses Magnum",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Magnum Force,"
+    ],
+    "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-475",
+    "name": "Mr Immortal",
+    "identity": "Craig Hollis",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "West Coast Avengers Vol 2 #46",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-478",
+    "name": "Multiple Man",
+    "identity": "James Arthur",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-479",
+    "name": "Mysterio",
+    "identity": "Quentin Beck",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Nicholas Macabes",
+      "Rudolph Hines",
+      "Gerdes",
+      "Doctor Ludwig Rinehart"
+    ],
+    "firstAppearance": "Amazing Spider-Man #13 (1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-480",
+    "name": "Mystique",
+    "identity": "Raven Darkholme",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Mallory Brickman"
+    ],
+    "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-483",
+    "name": "Namora",
+    "identity": "Aquaria Nautica Neptunia",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Sub-Mariner",
+      "Avenging Daughter",
+      "the Sea Beauty"
+    ],
+    "firstAppearance": "Marvel Mystery Comics #82 (1947)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-484",
+    "name": "Namorita",
+    "identity": "Namorita Prentiss",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Kymaera",
+      "Hard"
+    ],
+    "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-487",
+    "name": "Nebula",
+    "identity": "Nebula",
+    "realm": "knowhere",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Avengers #257 (July, 1985)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-488",
+    "name": "Negasonic Teenage Warhead",
+    "identity": "Ellie Phimister",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Warhead"
+    ],
+    "firstAppearance": "New X-Men #115",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-489",
+    "name": "Nick Fury",
+    "identity": "Nicholas Joseph Fury",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Doyle",
+      "The Mystery in the Mask",
+      "Patch",
+      "Scorpio"
+    ],
+    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 12,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-490",
+    "name": "Nightcrawler",
+    "identity": "Kurt Wagner",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "GIANT-SIZE X-MEN #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-495",
+    "name": "Northstar",
+    "identity": "Jean-Paul Beaubier",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Jean-Paul Martin"
+    ],
+    "firstAppearance": "X-Men #120 (1979)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-496",
+    "name": "Nova",
+    "identity": "Richard Rider",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Rich",
+      "Bucket-Head",
+      "Human Rocket",
+      "Kid Nova",
+      "",
+      "Nova Prime",
+      "Quasar"
+    ],
+    "firstAppearance": "NOVA Vol. 1 #1 (September, 1976)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-497",
+    "name": "Nova",
+    "identity": "Frankie Raye",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Frances Hyatt",
+      "Human Torch"
+    ],
+    "firstAppearance": "Fantastic Four #164 (November, 1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-498",
+    "name": "Odin",
+    "identity": "Odin Borson",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "All-Father,Sky-Father",
+      "Atum-Re",
+      "Woden",
+      "Wotan",
+      "Oden",
+      "Orrin",
+      "Harbard",
+      "King of Asgard"
+    ],
+    "firstAppearance": "Journey into Mystery #85",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-503",
+    "name": "One-Above-All",
+    "identity": "One-Above-All",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "One Above All"
+    ],
+    "firstAppearance": "Doctor Strange Vol 2 #13",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-504",
+    "name": "Onslaught",
+    "identity": "Onslaught",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Charlie Silus",
+      "Sir David The Great",
+      "Charles Xavier",
+      "Magneto",
+      "That Which Shall Survive",
+      "the Entity",
+      "Dark Xavier"
+    ],
+    "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-518",
+    "name": "Plantman",
+    "identity": "Samuel Smithers",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Blackheath"
+    ],
+    "firstAppearance": "Strange Tales #113 (October, 1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-523",
+    "name": "Polaris",
+    "identity": "Lorna Dane",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Pestilence",
+      "formerly Malice",
+      "Polarity",
+      "Magnetrix",
+      "M-2",
+      "Magneto the Second"
+    ],
+    "firstAppearance": "X-Men #49 (October, 1968)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-527",
+    "name": "Professor X",
+    "identity": "Charles Francis Xavier",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Prof",
+      "Dr. X",
+      "Professor Xavier",
+      "formerly Prisoner M-13"
+    ],
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-531",
+    "name": "Purple Man",
+    "identity": "Zebediah Killgrave",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Kilgrave"
+    ],
+    "firstAppearance": "Daredevil #4 (October, 1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-532",
+    "name": "Pyro",
+    "identity": "St. John Allerdyce",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 13,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-536",
+    "name": "Quicksilver",
+    "identity": "Pietro Django Maximoff",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Pietro Frank",
+      "Gypsy Davey",
+      "Mateo Maximoff"
+    ],
+    "firstAppearance": "X-MEN Vol. 1 #4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-537",
+    "name": "Quill",
+    "identity": "Maxwell Jordan",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Max"
+    ],
+    "firstAppearance": "New X-Men: Academy X #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-547",
+    "name": "Red Hulk",
+    "identity": "Thaddeus E. Ross",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Rulk",
+      "Hulk",
+      "Thunderbolt",
+      "General Ross"
+    ],
+    "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-550",
+    "name": "Red Skull",
+    "identity": "Johann Shmidt",
+    "realm": "latveria",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Dell Rusk",
+      "Bettman P. Lyles",
+      "the Agent of a Thousand Faces",
+      "The Man",
+      "Cyrus Fenton",
+      "Teacher",
+      "Tod March",
+      "John Smith",
+      "Aleksander Lukin."
+    ],
+    "firstAppearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-556",
+    "name": "Rhino",
+    "identity": "Aleksei Mikhailovich Sytsevich",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Alex O'Hirn",
+      "Mecha-Rhino"
+    ],
+    "firstAppearance": "Amazing Spider-Man #41",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-570",
+    "name": "Sabretooth",
+    "identity": "Victor Creed",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Slasher",
+      "El Tigre"
+    ],
+    "firstAppearance": "Iron Fist #14 (August, 1977)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-571",
+    "name": "Sage",
+    "identity": "Tessa",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-MEN Vol. 1 #132",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-572",
+    "name": "Sandman",
+    "identity": "William Baker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Flint Marko",
+      "Sylvester Mann",
+      "Quarryman"
+    ],
+    "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-573",
+    "name": "Sasquatch",
+    "identity": "Walter Langkowski",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Box",
+      "Wanda Langkowski"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-578",
+    "name": "Scarlet Spider II",
+    "identity": "Kaine Parker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Tarantula",
+      "Kaine",
+      "Ara?a Escarlata"
+    ],
+    "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-580",
+    "name": "Scorpia",
+    "identity": "Elaine Coll",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 14,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-582",
+    "name": "Sebastian Shaw",
+    "identity": "Sebastian Hiram Shaw",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-583",
+    "name": "Sentry",
+    "identity": "Robert Reynolds",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "Void",
+      "Bob",
+      "Golden Guardian of Good",
+      "John Victor Williams",
+      "Scout"
+    ],
+    "firstAppearance": "Sentry #1 (September, 2000)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-584",
+    "name": "Shadow King",
+    "identity": "Amahl Farouk",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Professor X",
+      "Ananasi",
+      "Amahl Farouk",
+      "Evil One",
+      "Master of the Games; he also impersonated the following mind-controlled subjects (in chronological order): Alexander Flynn",
+      "Karma",
+      "Cypher",
+      "Jacob Reisz",
+      "Donald Pierce and probably others"
+    ],
+    "firstAppearance": "X-Men #117 (1979)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-586",
+    "name": "Shadowcat",
+    "identity": "Kitty Pryde",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Kitty Pryde",
+      "Ariel",
+      "Sprite",
+      "Cat"
+    ],
+    "firstAppearance": "X-Men #129 (January, 1980)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-587",
+    "name": "Shang-Chi",
+    "identity": "Shang-Chi",
+    "realm": "hellskitchen",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
+    ],
+    "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-588",
+    "name": "Shatterstar",
+    "identity": "Gaveedra Seven",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Benjamin Russell"
+    ],
+    "firstAppearance": "New Mutants #99",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-589",
+    "name": "She-Hulk",
+    "identity": "Jennifer Walters",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Jade Giantess"
+    ],
+    "firstAppearance": "She-Hulk (Vol. 1) #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-591",
+    "name": "Shocker",
+    "identity": "Herman Schultz",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #46",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-592",
+    "name": "Shriek",
+    "identity": "Frances Louise Barrison",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Sandra Deel"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-594",
+    "name": "Sif",
+    "identity": "Sif",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Lady Sif",
+      "Erika Velez",
+      "Mrs. Chambers",
+      "Sybil"
+    ],
+    "firstAppearance": "Journey into Mystery #102 (March, 1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-595",
+    "name": "Silk",
+    "identity": "Cindy Moon",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man Vol 3 #4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-598",
+    "name": "Silver Surfer",
+    "identity": "Norrin Radd",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four, Vol. 1 #48",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-599",
+    "name": "Silverclaw",
+    "identity": "Maria de Guadalupe Santiago",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "La Garra Argentado",
+      "Daughter of the Volcano God,"
+    ],
+    "firstAppearance": "Avengers #8 (1998)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-604",
+    "name": "Siryn",
+    "identity": "Theresa Rourke Cassidy",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Theresa Rourke"
+    ],
+    "firstAppearance": "Spider-Woman (first series) #37",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 15,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-605",
+    "name": "Skaar",
+    "identity": "Skaar",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Savior",
+      "Son of Hulk",
+      "WorldBreaker",
+      "Long Hair",
+      "Little Monster",
+      "Conan"
+    ],
+    "firstAppearance": "World War Hulk #5, 2007",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-607",
+    "name": "Snowbird",
+    "identity": "Narya",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Anne McKenzie-Thompson"
+    ],
+    "firstAppearance": "Uncanny X-Men #120",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-610",
+    "name": "Songbird",
+    "identity": "Melissa Joan Gold",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Screaming Mimi",
+      "Mimi Schwartz",
+      "Margie Green"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-618",
+    "name": "Spider-Girl",
+    "identity": "May 'Mayday' Parker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "What If? Vol 2 #105 (February, 1998)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-619",
+    "name": "Spider-Gwen",
+    "identity": "Gwen Stacy",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Spider-Woman"
+    ],
+    "firstAppearance": "Edge of Spider-Verse #2",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-623",
+    "name": "Spider-Woman",
+    "identity": "Jessica Drew",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Arachne",
+      "Ariadne Hyde",
+      "Dark Angel",
+      "Dark Angel of San Francisco"
+    ],
+    "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-625",
+    "name": "Spider-Woman III",
+    "identity": "Martha Franklin",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-628",
+    "name": "Spyke",
+    "identity": "Evan Daniels",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Porcupine",
+      "Armadillo"
+    ],
+    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-631",
+    "name": "Stardust",
+    "identity": "Stardust",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Entity Lambda-Zero"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-640",
+    "name": "Sunspot",
+    "identity": "Roberto DaCosta",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Robert DaCosta",
+      "Bobby; Black Rook",
+      "Black King",
+      "Reignfire"
+    ],
+    "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-646",
+    "name": "Swarm",
+    "identity": "Fritz von Meyer",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Champions #14 (July, 1977)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-648",
+    "name": "Synch",
+    "identity": "Everett Thomas",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "X-Men #36 (1994)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-653",
+    "name": "Taskmaster",
+    "identity": "Tony Masters",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Avengers #195",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "thanos",
+    "name": "Thanos",
+    "identity": "Thanos",
+    "realm": "titan",
+    "status": "animated",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "The Mad Titan",
+      "Masterlord",
+      "The Overmaster",
+      "Chins"
+    ],
+    "firstAppearance": "Iron Man #55",
+    "source": "https://www.pngaaa.com/detail/2218424",
+    "artStyle": "Full-body character render",
+    "portraitPosition": {
+      "column": 2,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    },
+    "body": "assets/characters/thanos.webp",
+    "sheet": "assets/characters/thanos-loop.webp",
+    "frames": 20,
+    "columns": 5,
+    "frameWidth": 320,
+    "frameHeight": 400,
+    "period": 4.3,
+    "phase": 0.31,
+    "x": 768,
+    "y": 830,
+    "height": 280,
+    "effect": "infinity",
+    "task": "Balancing the six Infinity Stones in an orbit around his gauntlet",
+    "color": "#bb91e5"
+  },
+  {
+    "id": "catalogue-660",
+    "name": "Thor Girl",
+    "identity": "Tarene",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Asgard Lass",
+      "the Designate",
+      "the Destroyer",
+      "Hammerette",
+      "Hammer Girl",
+      "Hammer Lass",
+      "Tara Olson",
+      "Spirit of the Jewel",
+      "the Supreme",
+      "Thoreta",
+      "Thorita",
+      "Thor Lass"
+    ],
+    "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-661",
+    "name": "Thunderbird",
+    "identity": "John Proudstar",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Giant-Size X-Men #1 (1975)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-664",
+    "name": "Thunderstrike",
+    "identity": "Eric Kevin Masterson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Thor"
+    ],
+    "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-665",
+    "name": "Thundra",
+    "identity": "Thundra",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #129 (December, 1972)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-666",
+    "name": "Tiger Shark",
+    "identity": "Todd Arliss",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Arlys Tigershark"
+    ],
+    "firstAppearance": "Sub-Mariner #5 (September, 1968)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-667",
+    "name": "Tigra",
+    "identity": "Greer Grant Nelson",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "The Cat",
+      "Greer Sorenson"
+    ],
+    "firstAppearance": "The Cat #1",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-668",
+    "name": "Tinkerer",
+    "identity": "Phineas Mason",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #2 (1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-670",
+    "name": "Toad",
+    "identity": "Mortimer Toynbee",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "neutral",
+    "aliases": [
+      "The Terrible Toad-King"
+    ],
+    "firstAppearance": "X-Men #4 (March, 1964)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-671",
+    "name": "Toxin",
+    "identity": "Patrick Mulligan",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Larry"
+    ],
+    "firstAppearance": "Venom vs. Carnage #1 (2004)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 13,
+      "row": 17,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-677",
+    "name": "Triton",
+    "identity": "Triton",
+    "realm": "attilan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-679",
+    "name": "Ultragirl",
+    "identity": "Tsu-Zana",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Suzy Sherman",
+      "Ultra-Girl"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 1,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-681",
+    "name": "Utgard-Loki",
+    "identity": "Utgard-Loki",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "-",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-685",
+    "name": "Vanisher",
+    "identity": "Vanisher",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "Telford Porter"
+    ],
+    "firstAppearance": "X-Men (Vol 1) #2",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-688",
+    "name": "Venom II",
+    "identity": "Angelo Fortunato",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Marvel Knights Spider-Man #7 (2005)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-697",
+    "name": "Vision",
+    "identity": "Vision",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Victor Shade"
+    ],
+    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-701",
+    "name": "Vulture",
+    "identity": "Adrian Toomes",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Amazing Spider-Man #2",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-702",
+    "name": "Walrus",
+    "identity": "Hubert Carpent",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "bad",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Defenders #131 (May, 1984)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 8,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-703",
+    "name": "War Machine",
+    "identity": "James Rupert Rhodes",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Rhodey",
+      "Iron Man",
+      "Jim Rhodes"
+    ],
+    "firstAppearance": "Iron Man #118 (1979)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 9,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-705",
+    "name": "Warlock",
+    "identity": "Adam Warlock",
+    "realm": "knowhere",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Him",
+      "(in an alternate future) the Magus"
+    ],
+    "firstAppearance": "Fantastic Four #66",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 10,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-708",
+    "name": "Wasp",
+    "identity": "Janet Van Dyne",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Pixie"
+    ],
+    "firstAppearance": "TALES TO ASTONISH #44",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 11,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-709",
+    "name": "Watcher",
+    "identity": "Uatu",
+    "realm": "titan",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Fantastic Four #13 (April, 1963)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 12,
+      "row": 18,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-716",
+    "name": "Wolfsbane",
+    "identity": "Rahne Sinclair",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Grimfang",
+      "Mutate #490"
+    ],
+    "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 0,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-719",
+    "name": "Wonder Man",
+    "identity": "Simon Williams",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Wondie",
+      "JQ-272712-K"
+    ],
+    "firstAppearance": "AVENGERS #9",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 2,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-722",
+    "name": "Wyatt Wingfoot",
+    "identity": "Wyatt Wingfoot",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "FANTASTIC FOUR #50",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 3,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-723",
+    "name": "X-23",
+    "identity": "Laura Kinney",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Laura Logan",
+      "Laura Howlett",
+      "Laura X",
+      "Talon",
+      "Wolverine",
+      "X23"
+    ],
+    "firstAppearance": "NYX #3",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 4,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-724",
+    "name": "X-Man",
+    "identity": "Nate Grey",
+    "realm": "xavier",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Nate the Great"
+    ],
+    "firstAppearance": "X-Man #1 (1995)",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 5,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-727",
+    "name": "Yellowjacket II",
+    "identity": "Rita DeMara",
+    "realm": "avengers",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "-"
+    ],
+    "firstAppearance": "Avengers #264",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 6,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "catalogue-728",
+    "name": "Ymir",
+    "identity": "Ymir",
+    "realm": "asgard",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "alignment": "good",
+    "aliases": [
+      "Aurgelmir"
+    ],
+    "firstAppearance": "JOURNEY INTO MYSTERY #97",
+    "source": "https://github.com/akabab/superhero-api",
+    "artStyle": "Comic portrait archive",
+    "portraitPosition": {
+      "column": 7,
+      "row": 19,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "spider-man-tobey",
+    "name": "Spider-Man · Tobey Maguire",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "aliases": [
+      "Tobey Maguire",
+      "Peter Parker"
+    ],
+    "artStyle": "Reference portrait · actor-specific art pending",
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker",
+    "continuity": "Earth-96283 · Screen",
+    "portraitPosition": {
+      "column": 5,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "spider-man-andrew",
+    "name": "Spider-Man · Andrew Garfield",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "aliases": [
+      "Andrew Garfield",
+      "Peter Parker"
+    ],
+    "artStyle": "Reference portrait · actor-specific art pending",
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker",
+    "continuity": "Earth-120703 · Screen",
+    "portraitPosition": {
+      "column": 5,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  },
+  {
+    "id": "spider-man-tom",
+    "name": "Spider-Man · Tom Holland",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "status": "catalogue",
+    "portrait": "assets/portraits/atlas.webp",
+    "aliases": [
+      "Tom Holland",
+      "Peter Parker"
+    ],
+    "artStyle": "Reference portrait · actor-specific art pending",
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker",
+    "continuity": "Earth-616 · Screen",
+    "portraitPosition": {
+      "column": 5,
+      "row": 16,
+      "columns": 14,
+      "rows": 20
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "assets": [
+    {
+      "file": "exec-ae208747-d19c-4a73-b4ec-2df487fa7165.png",
+      "places": [
+        "avengers"
+      ],
+      "layout": "single scene",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "abc30c25f02779cc482d2ef6f8a89f7d11ba34a006e51e4746a55d87ab3309ae",
+      "generation": "imagegen",
+      "integration": "Background crops integrated in public/world/assets; character action pose production remains unfinished"
+    },
+    {
+      "file": "exec-f24a8f7f-65e6-4ec7-8cf0-7432907a710e.png",
+      "places": [
+        "sanctum",
+        "xavier",
+        "baxter",
+        "queens"
+      ],
+      "layout": "2x2 atlas: top-left, top-right, bottom-left, bottom-right",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d97c106c96189a9d50b15a62cc1b7982477351f0df9c26905bdd14fa06555a13",
+      "generation": "imagegen",
+      "integration": "Background crops integrated in public/world/assets; character action pose production remains unfinished"
+    },
+    {
+      "file": "exec-da2336ef-af96-4641-a45e-5dbd3e2d9533.png",
+      "places": [
+        "wakanda",
+        "asgard",
+        "latveria",
+        "attilan"
+      ],
+      "layout": "2x2 atlas: top-left, top-right, bottom-left, bottom-right",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d25ec6b327229d7ca29111c83aca60812dd06f04c70b70e9bd14332f1056a5b7",
+      "generation": "imagegen",
+      "integration": "Background crops integrated in public/world/assets; character action pose production remains unfinished"
+    },
+    {
+      "file": "exec-44b68401-9e24-402c-b95c-4024c12d1069.png",
+      "places": [
+        "knowhere",
+        "titan",
+        "kamar",
+        "madripoor"
+      ],
+      "layout": "2x2 atlas: top-left, top-right, bottom-left, bottom-right",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6943dda416dec80d96ba7b719b664f424578187d10add87375be1fd97fc848db",
+      "generation": "imagegen",
+      "integration": "Background crops integrated in public/world/assets; character action pose production remains unfinished"
+    }
+  ]
+}

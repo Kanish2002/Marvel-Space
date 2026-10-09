@@ -1,0 +1,40 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile,stat} from 'node:fs/promises';
+import {PLACES,TILE,actorBounds,frameAt,filterCharacters} from '../public/world/data.js';
+import {PixelWorld,screenToWorld,zoomAt,drawActor} from '../public/world/world.js';
+const base=new URL('../public/world/',import.meta.url);
+const {actors}=JSON.parse(await readFile(new URL('sprites.json',base)));
+const catalogue=JSON.parse(await readFile(new URL('catalogue.json',base)));
+function context(){const numbers=[];let balance=0;const target={numbers,get balance(){return balance;},save(){balance++;},restore(){balance--;assert(balance>=0);},measureText(s){return {width:s.length*7};},createRadialGradient(){return {addColorStop(){}};}};return new Proxy(target,{get:(t,k)=>k in t?t[k]:(...args)=>{for(const a of args)if(typeof a==='number'){assert(Number.isFinite(a),k+' emitted a non-finite number');numbers.push(a);}}});}
+function globals(){globalThis.matchMedia=()=>({matches:false});globalThis.ResizeObserver=class{observe(){}disconnect(){}};globalThis.devicePixelRatio=1;globalThis.requestAnimationFrame=()=>1;globalThis.cancelAnimationFrame=()=>{};globalThis.document={hidden:false};globalThis.Image=class{set src(v){this.url=v;queueMicrotask(()=>this.onload());}};}
+function makeWorld(){globals();const c=context(),canvas={style:{},width:1200,height:900,getContext:()=>c,getBoundingClientRect:()=>({width:1200,height:900,left:0,top:0}),addEventListener(){},removeEventListener(){},setPointerCapture(){}};return new PixelWorld(canvas,actors);}
+
+test('all 13 inspected backgrounds and all 55 reused sheets exist; frames and placements stay within valid bounds',async()=>{
+  assert.equal(PLACES.length,13);assert.equal(actors.length,55);assert.equal(new Set(actors.map(a=>a.id)).size,55);
+  for(const p of PLACES)assert((await stat(new URL(p.background,base))).size>10000);
+  for(const a of actors){assert(PLACES.some(p=>p.id===a.place));assert.equal(a.animationType,'illustrated-puppet');assert.equal(a.frames.length,20);assert.equal(a.sequence.length,20);assert((await stat(new URL(a.sheet,base))).size>1000);const b=actorBounds(a),p=PLACES.find(p=>p.id===a.place);assert(b.x>=p.x&&b.y>=p.y&&b.x+b.width<=p.x+TILE&&b.y+b.height<=p.y+TILE);for(const f of a.frames){assert(f.x>=0&&f.x+f.width<=1600);assert(f.y>=0&&f.y+f.height<=1600);}}
+});
+test('loop indexing wraps at negative times and periods; zoom anchors its pointer',()=>{
+  for(const a of actors)for(const t of [-100,-.001,0,.01,1,100]){const i=frameAt(a,t);assert(i>=0&&i<20);assert.equal(frameAt(a,t+a.period),i);}
+  const camera={x:1000,y:2000,zoom:.6},before=screenToWorld(camera,120,350,1200,900),next=zoomAt(camera,1.6,120,350,1200,900),after=screenToWorld(next,120,350,1200,900);assert(Math.abs(before.x-after.x)<1e-8);assert(Math.abs(before.y-after.y)<1e-8);
+});
+test('search exposes the full 292-entry archive without duplicating illustrated residents or inventing Doom artwork',()=>{
+  assert.equal(filterCharacters(actors,catalogue,{art:'all'}).length,292);
+  const doom=filterCharacters(actors,catalogue,{art:'all',query:'doctor doom'});assert(doom.length>=1);assert(doom.every(a=>a.reference));
+  assert.equal(filterCharacters(actors,catalogue,{art:'scene',place:'baxter'}).length,4);
+  assert.equal(filterCharacters(actors,catalogue,{art:'all',query:'tobey'}).length,1);
+});
+test('each resident effect renders finite balanced commands and every sprite crop is valid',()=>{
+  for(const a of actors)for(const t of [0,.3,1.8,4.7]){const c=context();drawActor(c,a,{},t,{active:true,labels:true,local:true});assert.equal(c.balance,0);assert(c.numbers.length>25);}
+});
+test('overview loads landscapes only; focus restores sheets and selection; stale focus cannot replace a later location',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');w.images.clear();await w.fitWorld();assert.equal(w.images.size,13);assert([...w.images.keys()].every(p=>p.startsWith('assets/')));
+  const a=actors.find(a=>a.id==='captain-america');await w.focusActor(a);assert.equal(w.place,'avengers');assert.equal(w.active,a.id);const p=PLACES.find(p=>p.id===a.place),x=(p.x+a.x-w.camera.x)*w.camera.zoom+w.width/2,y=(p.y+a.y-a.height*.45-w.camera.y)*w.camera.zoom+w.height/2;assert.equal(w.pick(x,y)?.id,a.id);
+  const focus=w.focusActor(a);await w.focusPlace('titan');await focus;assert.equal(w.place,'titan');assert.equal(w.camera.x,PLACES.find(p=>p.id==='titan').x+TILE/2);w.destroy();
+});
+test('failed image requests can retry; pinch completion never selects a resident',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');let attempts=0;globalThis.Image=class{set src(v){queueMicrotask(()=>++attempts===1?this.onerror():this.onload());}};
+  await assert.rejects(w.load('missing-test.webp'));await w.load('missing-test.webp');assert.equal(attempts,2);
+  let selected=0;w.onSelect=()=>selected++;w.down({pointerId:1,clientX:200,clientY:200});w.down({pointerId:2,clientX:300,clientY:200});w.move({pointerId:2,clientX:350,clientY:200});w.up({pointerId:2},false);w.up({pointerId:1},false);assert.equal(selected,0);w.destroy();
+});

@@ -1,0 +1,3718 @@
+[
+  {
+    "id": "gorr-the-god-butcher",
+    "name": "Gorr the God Butcher",
+    "identity": "Gorr the God Butcher",
+    "realm": "asgard",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20260911/41360_1313617.html"
+  },
+  {
+    "id": "the-hood",
+    "name": "The Hood",
+    "identity": "The Hood",
+    "realm": "latveria",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20260807/41360_1310474.html"
+  },
+  {
+    "id": "jubilee",
+    "name": "Jubilee",
+    "identity": "Jubilation Lee",
+    "realm": "xavier",
+    "aliases": [
+      "Jubes"
+    ],
+    "source": "https://www.marvelrivals.com/20260707/41360_1306826.html"
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "identity": "Scott Summers",
+    "realm": "xavier",
+    "aliases": [
+      "Scotty",
+      "Cyke",
+      "Slim",
+      "Fearless Leader",
+      "One-Eye",
+      "Erik the Red",
+      "Slym Dayspring",
+      "Mutate 007",
+      "Apocalypse"
+    ],
+    "source": "https://www.marvelrivals.com/20260611/41360_1303977.html"
+  },
+  {
+    "id": "devil-dinosaur",
+    "name": "Devil Dinosaur",
+    "identity": "Devil Dinosaur",
+    "realm": "queens",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20260514/41360_1300391.html"
+  },
+  {
+    "id": "black-cat",
+    "name": "Black Cat",
+    "identity": "Felicia Hardy",
+    "realm": "queens",
+    "aliases": [
+      "Felicity Harmon"
+    ],
+    "source": "https://www.marvelrivals.com/20260416/41360_1296480.html"
+  },
+  {
+    "id": "white-fox",
+    "name": "White Fox",
+    "identity": "White Fox",
+    "realm": "hellskitchen",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20260320/41360_1292187.html"
+  },
+  {
+    "id": "elsa-bloodstone",
+    "name": "Elsa Bloodstone",
+    "identity": "Elsa Bloodstone",
+    "realm": "hellskitchen",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20260212/41360_1286981.html"
+  },
+  {
+    "id": "deadpool",
+    "name": "Deadpool",
+    "identity": "Wade Wilson",
+    "realm": "xavier",
+    "aliases": [
+      "Wade Wilson",
+      "Jack",
+      "Chiyonosake (\"the Wolf of the Rice Wine\")",
+      "Rhodes",
+      "Corpus",
+      "Lopez",
+      "Hobgoblin",
+      "Thom Cruz",
+      "Peter Parker"
+    ],
+    "source": "https://www.marvelrivals.com/20260115/41360_1281973.html"
+  },
+  {
+    "id": "rogue",
+    "name": "Rogue",
+    "identity": "Anna Marie",
+    "realm": "xavier",
+    "aliases": [
+      "Anna Raven",
+      "Doctor Kellogg",
+      "Mutate 9602",
+      "Irene Adler",
+      "Miss Smith"
+    ],
+    "source": "https://www.marvelrivals.com/20251212/41360_1276333.html"
+  },
+  {
+    "id": "gambit",
+    "name": "Gambit",
+    "identity": "Remy Etienne LeBeau",
+    "realm": "xavier",
+    "aliases": [
+      "Death",
+      "Le Diable Blanc",
+      "formerly Robert Lord",
+      "Cajun"
+    ],
+    "source": "https://www.marvelrivals.com/20251114/41360_1270998.html"
+  },
+  {
+    "id": "daredevil",
+    "name": "Daredevil",
+    "identity": "Matt Murdock",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Matt",
+      "Jack Batlin",
+      "Kingpin of Crime",
+      "Laurent LeVasseur",
+      "Michael \"Mike\" Murdock",
+      "Scarlet Swashbuckler",
+      "Nameless One",
+      "Kingpin of Hell's Kitchen",
+      "The Man Without Fear",
+      "The Guardian Devil",
+      "DD",
+      "Red",
+      "Hornhead",
+      "Cooper Peyton",
+      "Captain Universe"
+    ],
+    "source": "https://www.marvelrivals.com/20251009/41360_1263889.html"
+  },
+  {
+    "id": "angela",
+    "name": "Angela",
+    "identity": "Angela",
+    "realm": "asgard",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20250911/41360_1258873.html"
+  },
+  {
+    "id": "blade",
+    "name": "Blade",
+    "identity": "Eric Brooks",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Switchblade",
+      "Frank Blade",
+      "Daywalker"
+    ],
+    "source": "https://www.marvelrivals.com/20250808/41360_1252733.html"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "identity": "Phoenix",
+    "realm": "xavier",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20250710/41360_1246363.html"
+  },
+  {
+    "id": "ultron",
+    "name": "Ultron",
+    "identity": "Ultron",
+    "realm": "avengers",
+    "aliases": [
+      "Crimson Cowl",
+      "Great Devil",
+      "Great Ultron",
+      "Iron Man",
+      "Mark",
+      "Omega",
+      "Ultimate Ultron",
+      "Ultron-5 (and hundreds of other sequential numerical designations)",
+      "Ultron Mark Twelve",
+      "Ho Yinsen"
+    ],
+    "source": "https://www.marvelrivals.com/20250529/41360_1237549.html"
+  },
+  {
+    "id": "emma-frost",
+    "name": "Emma Frost",
+    "identity": "Emma Frost",
+    "realm": "xavier",
+    "aliases": [
+      "Storm",
+      "White Queen"
+    ],
+    "source": "https://www.marvelrivals.com/20250408/41360_1225547.html"
+  },
+  {
+    "id": "the-thing",
+    "name": "The Thing",
+    "identity": "Ben Grimm",
+    "realm": "baxter",
+    "aliases": [
+      "Blackbeard the Pirate",
+      "Grim Ben",
+      "Dr. Josiah Verpoorteen"
+    ],
+    "source": "https://www.marvelrivals.com/20250220/41360_1213067.html"
+  },
+  {
+    "id": "human-torch",
+    "name": "Human Torch",
+    "identity": "Johnny Storm",
+    "realm": "baxter",
+    "aliases": [
+      "Matchstick Johnny",
+      "Doug Brown"
+    ],
+    "source": "https://www.marvelrivals.com/20250220/41360_1213050.html"
+  },
+  {
+    "id": "invisible-woman",
+    "name": "Invisible Woman",
+    "identity": "Susan Storm Richards",
+    "realm": "baxter",
+    "aliases": [
+      "Invisible Girl"
+    ],
+    "source": "https://www.marvelrivals.com/20250108/41360_1205353.html"
+  },
+  {
+    "id": "mister-fantastic",
+    "name": "Mister Fantastic",
+    "identity": "Reed Richards",
+    "realm": "baxter",
+    "aliases": [
+      "Mr Fantastic"
+    ],
+    "source": "https://www.marvelrivals.com/20250108/41360_1205352.html"
+  },
+  {
+    "id": "squirrel-girl",
+    "name": "Squirrel Girl",
+    "identity": "Squirrel Girl",
+    "realm": "queens",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241205/41360_1198132.html"
+  },
+  {
+    "id": "black-widow",
+    "name": "Black Widow",
+    "identity": "Natasha Romanoff",
+    "realm": "avengers",
+    "aliases": [
+      "Yelena Belova",
+      "Natasha Romanoff",
+      "Natasha",
+      "Tasha",
+      "Madame Natasha",
+      "Nancy Rushman",
+      "Laura Matthers",
+      "Nadine Roman",
+      "\"Oktober\"",
+      "Black Pearl",
+      "Ebon Flame"
+    ],
+    "source": "https://www.marvelrivals.com/20241204/41360_1198106.html"
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine",
+    "identity": "Logan",
+    "realm": "xavier",
+    "aliases": [
+      "Weapon X",
+      "Weapon Ten",
+      "Death",
+      "Mutate 9601",
+      "Jim Logan",
+      "Emilio Garra",
+      "Weapon Chi",
+      "Experiment X",
+      "Agent Ten",
+      "Peter Richards",
+      "Mai kethLogan",
+      "Mr. Patch"
+    ],
+    "source": "https://www.marvelrivals.com/20241204/41360_1198101.html"
+  },
+  {
+    "id": "cloak-dagger",
+    "name": "Cloak & Dagger",
+    "identity": "Cloak & Dagger",
+    "realm": "sanctum",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241204/41360_1198095.html"
+  },
+  {
+    "id": "iron-fist",
+    "name": "Iron Fist",
+    "identity": "Danny Rand",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Daredevil",
+      "Daniel Thomas Rand",
+      "the Living Weapon",
+      "Young Dragon",
+      "Danny Rand"
+    ],
+    "source": "https://www.marvelrivals.com/20241201/41360_1197227.html"
+  },
+  {
+    "id": "psylocke",
+    "name": "Psylocke",
+    "identity": "Elizabeth Braddock",
+    "realm": "xavier",
+    "aliases": [
+      "Betsy",
+      "Captain Britain",
+      "Lady Mandarin"
+    ],
+    "source": "https://www.marvelrivals.com/20241124/41360_1195754.html"
+  },
+  {
+    "id": "hawkeye",
+    "name": "Hawkeye",
+    "identity": "Clint Barton",
+    "realm": "avengers",
+    "aliases": [
+      "Ronin",
+      "Goliath",
+      "Golden Archer",
+      "the Marksman",
+      "Father Time",
+      "Longbow"
+    ],
+    "source": "https://www.marvelrivals.com/20241124/41360_1195753.html"
+  },
+  {
+    "id": "iron-man",
+    "name": "Iron Man",
+    "identity": "Tony Stark",
+    "realm": "avengers",
+    "aliases": [
+      "Iron Knight",
+      "Hogan Potts",
+      "Spare Parts Man",
+      "Cobalt Man II",
+      "Crimson Dynamo",
+      "Ironman"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195687.html"
+  },
+  {
+    "id": "moon-knight",
+    "name": "Moon Knight",
+    "identity": "Marc Spector",
+    "realm": "sanctum",
+    "aliases": [
+      "Jake Lockley",
+      "Steven Grant",
+      "Yitzak Topol",
+      "Fist of Khonshu",
+      "Crescent Crusader",
+      "Lunar Legionnaire"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195685.html"
+  },
+  {
+    "id": "namor",
+    "name": "Namor",
+    "identity": "Namor McKenzie",
+    "realm": "wakanda",
+    "aliases": [
+      "Imperius Rex",
+      "Dr. G.W. Falton",
+      "Sub-Mariner",
+      "\"Subby\"",
+      "Namor the First",
+      "Avenging Son",
+      "Old Man",
+      "Rex",
+      "Joe Pierre",
+      "Lord of the Seven Seas",
+      "the Scion of the Deep",
+      "Phoenix"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195686.html"
+  },
+  {
+    "id": "star-lord",
+    "name": "Star-Lord",
+    "identity": "Peter Jason Quill",
+    "realm": "knowhere",
+    "aliases": [
+      "Starlord"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195683.html"
+  },
+  {
+    "id": "scarlet-witch",
+    "name": "Scarlet Witch",
+    "identity": "Wanda Maximoff",
+    "realm": "sanctum",
+    "aliases": [
+      "Wanda Frank",
+      "Wanda Magnus",
+      "Ana Maximoff",
+      "Gypsy Witch",
+      "The Witch"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195684.html"
+  },
+  {
+    "id": "winter-soldier",
+    "name": "Winter Soldier",
+    "identity": "Bucky Barnes",
+    "realm": "avengers",
+    "aliases": [
+      "Bucky",
+      "Captain America"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195681.html"
+  },
+  {
+    "id": "magik",
+    "name": "Magik",
+    "identity": "Magik",
+    "realm": "sanctum",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195682.html"
+  },
+  {
+    "id": "spider-man",
+    "name": "Spider-Man",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "aliases": [
+      "Spiderman",
+      "Bag-Man",
+      "Black Marvel",
+      "Captain Universe",
+      "Dusk",
+      "Green Hood",
+      "Hornet",
+      "Mad Dog 336",
+      "Peter Palmer",
+      "Prodigy",
+      "Ricochet",
+      "Scarlet Spider",
+      "Spider-Boy",
+      "Spider-Hulk",
+      "Spider-Morphosis"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195680.html"
+  },
+  {
+    "id": "black-panther",
+    "name": "Black Panther",
+    "identity": "T'Challa",
+    "realm": "wakanda",
+    "aliases": [
+      "Mr. Okonkwo",
+      "The Man Without Fear",
+      "Luke Charles",
+      "Black Leopard",
+      "the Client",
+      "Coal Tiger",
+      "has impersonated Daredevil and others on occasion"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195677.html"
+  },
+  {
+    "id": "hela",
+    "name": "Hela",
+    "identity": "Hela",
+    "realm": "asgard",
+    "aliases": [
+      "Goddess of Death"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195676.html"
+  },
+  {
+    "id": "storm",
+    "name": "Storm",
+    "identity": "Ororo Munroe",
+    "realm": "wakanda",
+    "aliases": [
+      "Ororo Iqadi T'Challa",
+      "Queen Ororo",
+      "Ororo Komo Wakandas,White Queen",
+      "Weather Witch",
+      "Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195675.html"
+  },
+  {
+    "id": "hulk",
+    "name": "Hulk",
+    "identity": "Bruce Banner",
+    "realm": "avengers",
+    "aliases": [
+      "Annihilator",
+      "Captain Universe",
+      "Joe Fixit",
+      "Mr. Fixit",
+      "Mechano",
+      "Professor",
+      "Jade Jaws",
+      "Golly Green Giant"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195678.html"
+  },
+  {
+    "id": "jeff-the-land-shark",
+    "name": "Jeff the Land Shark",
+    "identity": "Jeff the Land Shark",
+    "realm": "knowhere",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195674.html"
+  },
+  {
+    "id": "the-punisher",
+    "name": "Punisher",
+    "identity": "Frank Castle",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Big Nothing",
+      "Major Bateman",
+      "Ted Bishop",
+      "Cliff Callador",
+      "Castigo",
+      "Chaloner",
+      "Fred D'Amato",
+      "Eastman",
+      "Charles Fort",
+      "Frank Loomis",
+      "McRook",
+      "Melchior",
+      "Joe Rainey",
+      "Frank Rook",
+      "Richard Rook",
+      "Tony Knowlen Ross",
+      "Francis Stronghold",
+      "Johnny Tower",
+      "Dmitri Velikoff",
+      "Fra"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195673.html"
+  },
+  {
+    "id": "luna-snow",
+    "name": "Luna Snow",
+    "identity": "Luna Snow",
+    "realm": "knowhere",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195671.html"
+  },
+  {
+    "id": "adam-warlock",
+    "name": "Adam Warlock",
+    "identity": "Adam Warlock",
+    "realm": "knowhere",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195670.html"
+  },
+  {
+    "id": "rocket-raccoon",
+    "name": "Rocket Raccoon",
+    "identity": "Rocket Raccoon",
+    "realm": "knowhere",
+    "aliases": [
+      "Sharpshooting Space Racoon",
+      "Rocky Raccoon",
+      "Ranger Rocket"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195663.html"
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "identity": "Loki Laufeyson",
+    "realm": "asgard",
+    "aliases": [
+      "God of Mischief",
+      "Gem-Keeper",
+      "Walter Lawson",
+      "Lester",
+      "Loren Olsen",
+      "Tyfon",
+      "Father Williams",
+      "Willie",
+      "Tso Zhung; has also impersonated hundreds of others."
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195662.html"
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "identity": "Mantis",
+    "realm": "knowhere",
+    "aliases": [
+      "Celestial Madonna",
+      "Willow",
+      "Lorelei",
+      "Mandy Celestine",
+      "This One (in referring to herself)"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195661.html"
+  },
+  {
+    "id": "peni-parker",
+    "name": "Peni Parker",
+    "identity": "Peni Parker",
+    "realm": "queens",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195656.html"
+  },
+  {
+    "id": "thor",
+    "name": "Thor",
+    "identity": "Thor Odinson",
+    "realm": "asgard",
+    "aliases": [
+      "Donald Blake",
+      "Sigurd Jarlson",
+      "Jake Olsen",
+      "Donar the Mighty"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195657.html"
+  },
+  {
+    "id": "magneto",
+    "name": "Magneto",
+    "identity": "Erik Magnus Lensherr",
+    "realm": "xavier",
+    "aliases": [
+      "The Creator",
+      "Erik Magnus Lehnsherr",
+      "Michael Xavier",
+      "White Pilgrim",
+      "Erik the RedThe Master of Magnetism"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195655.html"
+  },
+  {
+    "id": "venom",
+    "name": "Venom",
+    "identity": "Venom",
+    "realm": "queens",
+    "aliases": [],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195654.html"
+  },
+  {
+    "id": "groot",
+    "name": "Groot",
+    "identity": "Groot",
+    "realm": "knowhere",
+    "aliases": [
+      "The Monster from Planet X; His Divine Majesty King Groot the 23rd",
+      "Monarch of Planet X",
+      "custodian of the branch worlds",
+      "ruler of all the shades",
+      "Flora colossus Information-silk"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195653.html"
+  },
+  {
+    "id": "captain-america",
+    "name": "Captain America",
+    "identity": "Steve Rogers",
+    "realm": "avengers",
+    "aliases": [
+      "Nomad",
+      "The Captain"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195652.html"
+  },
+  {
+    "id": "doctor-strange",
+    "name": "Doctor Strange",
+    "identity": "Stephen Strange",
+    "realm": "sanctum",
+    "aliases": [
+      "Sorcerer Supreme",
+      "Master of the Mystic Arts",
+      "Stephen Sanders",
+      "Captain Universe",
+      "Vincent Stevens"
+    ],
+    "source": "https://www.marvelrivals.com/20241123/41360_1195649.html"
+  },
+  {
+    "id": "catalogue-1",
+    "name": "A-Bomb",
+    "identity": "Richard Milhouse Jones",
+    "realm": "avengers",
+    "aliases": [
+      "Rick Jones"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)"
+  },
+  {
+    "id": "catalogue-4",
+    "name": "Abomination",
+    "identity": "Emil Blonsky",
+    "realm": "avengers",
+    "aliases": [
+      "Agent R-7",
+      "Ravager of Worlds"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Tales to Astonish #90"
+  },
+  {
+    "id": "catalogue-5",
+    "name": "Abraxas",
+    "identity": "Abraxas",
+    "realm": "titan",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four Annual #2001"
+  },
+  {
+    "id": "catalogue-6",
+    "name": "Absorbing Man",
+    "identity": "Carl Creel",
+    "realm": "avengers",
+    "aliases": [
+      "Greithoth",
+      "\"Crusher\" Creel",
+      "Rocky Davis",
+      "Dynamite Davis",
+      "Lightningbolt",
+      "Prisoner #24957"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Daredevil #1 (April, 1964) (As Rocky Davis)"
+  },
+  {
+    "id": "catalogue-10",
+    "name": "Agent Bob",
+    "identity": "Bob",
+    "realm": "avengers",
+    "aliases": [
+      "Bob",
+      "agent of Hydra",
+      "Bob",
+      "agent of A.I.M"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Cable & Deadpool #38 (May, 2007)"
+  },
+  {
+    "id": "catalogue-11",
+    "name": "Agent Zero",
+    "identity": "Christoph Nord",
+    "realm": "avengers",
+    "aliases": [
+      "Maverick"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-12",
+    "name": "Air-Walker",
+    "identity": "Gabriel Lan",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #120"
+  },
+  {
+    "id": "catalogue-13",
+    "name": "Ajax",
+    "identity": "Francis",
+    "realm": "avengers",
+    "aliases": [
+      "\"Frankie\"",
+      "the A-Man",
+      "the Attending"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Deadpool #14 (March, 1998)"
+  },
+  {
+    "id": "catalogue-25",
+    "name": "Angel Dust",
+    "identity": "Christina",
+    "realm": "xavier",
+    "aliases": [
+      "Angel",
+      "Dusty"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Morlocks #1"
+  },
+  {
+    "id": "catalogue-29",
+    "name": "Annihilus",
+    "identity": "Annihilus",
+    "realm": "avengers",
+    "aliases": [
+      "The Living Death That Walks",
+      "Lord of the Negative Zone"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four Annual #6 (1968)"
+  },
+  {
+    "id": "catalogue-30",
+    "name": "Ant-Man",
+    "identity": "Hank Pym",
+    "realm": "avengers",
+    "aliases": [
+      "Hank Pym",
+      "Doctor Pym",
+      "Ant-Man",
+      "Goliath",
+      "Yellowjacket",
+      "Wasp",
+      "Earth's Scientist Supreme"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)"
+  },
+  {
+    "id": "catalogue-31",
+    "name": "Ant-Man II",
+    "identity": "Scott Lang",
+    "realm": "avengers",
+    "aliases": [
+      "Myrmidon",
+      "Scott Edward Harris Lang"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers Vol 1 #181 (March, 1979)"
+  },
+  {
+    "id": "catalogue-35",
+    "name": "Apocalypse",
+    "identity": "En Sabah Nur",
+    "realm": "avengers",
+    "aliases": [
+      "The Eternal One",
+      "the High Lord",
+      "Set",
+      "Huitxilopochti",
+      "Sauru",
+      "Kali-Ma"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Factor #5 (June, 1986)"
+  },
+  {
+    "id": "catalogue-39",
+    "name": "Arachne",
+    "identity": "Julia Carpenter",
+    "realm": "avengers",
+    "aliases": [
+      "Spider-Woman",
+      "Madame Web"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Super Heroes Secret Wars #6"
+  },
+  {
+    "id": "catalogue-41",
+    "name": "Arclight",
+    "identity": "Philippa Sontag",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)"
+  },
+  {
+    "id": "catalogue-42",
+    "name": "Ardina",
+    "identity": "Ardina",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "The Order #4"
+  },
+  {
+    "id": "catalogue-43",
+    "name": "Ares",
+    "identity": "Ares",
+    "realm": "avengers",
+    "aliases": [
+      "God of War",
+      "Mister Talon",
+      "Mars",
+      "Warhawk"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Thor #129"
+  },
+  {
+    "id": "catalogue-44",
+    "name": "Ariel",
+    "identity": "Ariel",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fallen Angels #1 (1987)"
+  },
+  {
+    "id": "catalogue-45",
+    "name": "Armor",
+    "identity": "Hisako Ichiki",
+    "realm": "avengers",
+    "aliases": [
+      "X-Girl",
+      "Kid"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Astonishing X-Men #4 (2004)"
+  },
+  {
+    "id": "catalogue-56",
+    "name": "Aurora",
+    "identity": "Jeanne-Marie Beaubier",
+    "realm": "avengers",
+    "aliases": [
+      "Sister Beaubier"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #121 (1979)"
+  },
+  {
+    "id": "catalogue-57",
+    "name": "Azazel",
+    "identity": "Azazel",
+    "realm": "avengers",
+    "aliases": [
+      "Semihazah",
+      "Duma",
+      "Keriel",
+      "Mastema",
+      "Beliar",
+      "Gadreel",
+      "Beelzebub",
+      "Satan"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #428 (2003)"
+  },
+  {
+    "id": "catalogue-61",
+    "name": "Banshee",
+    "identity": "Sean Cassidy",
+    "realm": "xavier",
+    "aliases": [
+      "Death"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #28 (January, 1967)"
+  },
+  {
+    "id": "catalogue-62",
+    "name": "Bantam",
+    "identity": "Roberto Velasquez",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Civil War: Front Line #3 (September, 2006)"
+  },
+  {
+    "id": "catalogue-72",
+    "name": "Battlestar",
+    "identity": "Lemar Hoskins",
+    "realm": "avengers",
+    "aliases": [
+      "Bucky"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain America #323 (1986); (as Bucky)"
+  },
+  {
+    "id": "catalogue-75",
+    "name": "Beast",
+    "identity": "Henry Philip McCoy",
+    "realm": "xavier",
+    "aliases": [
+      "Dr. McCoy",
+      "Hanko",
+      "Kreature",
+      "Mutate #666",
+      "Magilla Gorilla",
+      "Golden Armed Boy"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114"
+  },
+  {
+    "id": "catalogue-79",
+    "name": "Beta Ray Bill",
+    "identity": "Beta Ray Bill (translation of his Korbinite name)",
+    "realm": "asgard",
+    "aliases": [
+      "Beta Ray Thor",
+      "Simon Walters"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Thor #337"
+  },
+  {
+    "id": "catalogue-80",
+    "name": "Beyonder",
+    "identity": "Beyonder",
+    "realm": "titan",
+    "aliases": [
+      "Ataxi",
+      "The Beyond Realm",
+      "Frank",
+      "Goblin Force",
+      "Goblin King",
+      "Goblyn King",
+      "Goblin Queen",
+      "The One From Beyond",
+      "God",
+      "Kosmos",
+      "Maker"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Super-Heroes Secret Wars #1"
+  },
+  {
+    "id": "catalogue-83",
+    "name": "Big Man",
+    "identity": "Frederick Foswell",
+    "realm": "avengers",
+    "aliases": [
+      "Patch"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man # 10 (1964)"
+  },
+  {
+    "id": "catalogue-88",
+    "name": "Bird-Brain",
+    "identity": "Bird-Brain",
+    "realm": "avengers",
+    "aliases": [
+      "Bird-Boy"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "The New Mutants #56 (October, 1987)"
+  },
+  {
+    "id": "catalogue-92",
+    "name": "Bishop",
+    "identity": "Lucas Bishop",
+    "realm": "xavier",
+    "aliases": [
+      "Archbishop"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #282 (November, 1991)"
+  },
+  {
+    "id": "catalogue-96",
+    "name": "Black Bolt",
+    "identity": "Blackagar Boltagon",
+    "realm": "attilan",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)"
+  },
+  {
+    "id": "catalogue-102",
+    "name": "Black Knight III",
+    "identity": "Dane Whitman",
+    "realm": "avengers",
+    "aliases": [
+      "The Pendragon",
+      "Gann Josin",
+      "Eobar Garrington"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #47 (1967)"
+  },
+  {
+    "id": "catalogue-104",
+    "name": "Black Mamba",
+    "identity": "Tanya Sealy",
+    "realm": "avengers",
+    "aliases": [
+      "Tanya Sweet"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Two-In-One #64"
+  },
+  {
+    "id": "catalogue-109",
+    "name": "Blackout",
+    "identity": "Blackout",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)"
+  },
+  {
+    "id": "catalogue-110",
+    "name": "Blackwing",
+    "identity": "Joseph Manfredi",
+    "realm": "avengers",
+    "aliases": [
+      "Blackwing",
+      "Joe Manfredi",
+      "Joe Silvermane",
+      "Guiseppi Manfredi"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Daredevil #118 (February, 1975)"
+  },
+  {
+    "id": "catalogue-111",
+    "name": "Blackwulf",
+    "identity": "Lucian",
+    "realm": "avengers",
+    "aliases": [
+      "Pelops",
+      "Black Wolf"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Thunderstrike #6 (March, 1994)"
+  },
+  {
+    "id": "catalogue-114",
+    "name": "Bling!",
+    "identity": "Roxanne Washington",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #171 (2005)"
+  },
+  {
+    "id": "catalogue-115",
+    "name": "Blink",
+    "identity": "Clarice Ferguson",
+    "realm": "xavier",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #317 (October, 1994)"
+  },
+  {
+    "id": "catalogue-118",
+    "name": "Blizzard II",
+    "identity": "Donald Gill",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Iron Man #223 (1987)"
+  },
+  {
+    "id": "catalogue-119",
+    "name": "Blob",
+    "identity": "Frederick J. Dukes",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #3 (1964)"
+  },
+  {
+    "id": "catalogue-120",
+    "name": "Bloodaxe",
+    "identity": "Jackie Lukus",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449"
+  },
+  {
+    "id": "catalogue-121",
+    "name": "Bloodhawk",
+    "identity": "Lemuel Krug",
+    "realm": "avengers",
+    "aliases": [
+      "Lemuel Halcon"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men (2099) #1"
+  },
+  {
+    "id": "catalogue-141",
+    "name": "Bullseye",
+    "identity": "Lester",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Benjamin Poindexter",
+      "Daredevil",
+      "Punisher",
+      "Bullseye",
+      "Hawkeye",
+      "pitcher"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Daredevil #131 (March, 1976)"
+  },
+  {
+    "id": "catalogue-145",
+    "name": "Cable",
+    "identity": "Nathan Summers",
+    "realm": "xavier",
+    "aliases": [
+      "Chosen One",
+      "Soldier X",
+      "Nathan Dayspring",
+      "Askani'son",
+      "Nathan Dayspring Summers",
+      "Nathan Winters",
+      "The Traveller",
+      "The Saviour"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New Mutants #86 (as Cable)"
+  },
+  {
+    "id": "catalogue-146",
+    "name": "Callisto",
+    "identity": "Callisto",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-MEN (first series) #169"
+  },
+  {
+    "id": "catalogue-148",
+    "name": "Cannonball",
+    "identity": "Samuel Zachery Guthrie",
+    "realm": "avengers",
+    "aliases": [
+      "Formerly Samson Guthry",
+      "Sam Guthrie",
+      "Jet-Ass"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Graphic Novel #4 (1982)"
+  },
+  {
+    "id": "catalogue-151",
+    "name": "Captain Britain",
+    "identity": "Brian Braddock",
+    "realm": "avengers",
+    "aliases": [
+      "Britannic",
+      "Black Bishop",
+      "Jungle Man",
+      "King of Otherworld",
+      "Merlinson"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain Britain #1 (October, 1976)"
+  },
+  {
+    "id": "catalogue-157",
+    "name": "Captain Marvel",
+    "identity": "Carol Danvers",
+    "realm": "avengers",
+    "aliases": [
+      "Ace",
+      "Binary",
+      "Lady Marvel",
+      "Warbird",
+      "others used during her espionage career"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Ms. Marvel #1"
+  },
+  {
+    "id": "catalogue-162",
+    "name": "Carnage",
+    "identity": "Cletus Kasady",
+    "realm": "queens",
+    "aliases": [
+      "Mass Carnage",
+      "999th"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)"
+  },
+  {
+    "id": "catalogue-167",
+    "name": "Century",
+    "identity": "Century",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Force Works #1 (July, 1994)"
+  },
+  {
+    "id": "catalogue-169",
+    "name": "Chamber",
+    "identity": "Jonothon Evan Starsmore",
+    "realm": "avengers",
+    "aliases": [
+      "Decibel",
+      "Jono",
+      "Jono Hex"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Generation X #1 (November, 1994)"
+  },
+  {
+    "id": "catalogue-171",
+    "name": "Changeling",
+    "identity": "Kevin Sidney",
+    "realm": "avengers",
+    "aliases": [
+      "Professor X",
+      "Professor Charles Xavier"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #35 (August, 1967)"
+  },
+  {
+    "id": "catalogue-180",
+    "name": "Cloak",
+    "identity": "Tyrone Johnson",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Spectacular Spiderman #64"
+  },
+  {
+    "id": "catalogue-185",
+    "name": "Colossus",
+    "identity": "Piotr Nikolaievitch Rasputin",
+    "realm": "xavier",
+    "aliases": [
+      "Pete",
+      "Peter Nicholas",
+      "The Proletarian",
+      "Little Brother"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)"
+  },
+  {
+    "id": "catalogue-186",
+    "name": "Copycat",
+    "identity": "Vanessa Carlysle",
+    "realm": "avengers",
+    "aliases": [
+      "Nurse Veronica",
+      "Patricia Muggins",
+      "Titania",
+      "Garrison Kane",
+      "Christina Valentino",
+      "Domino",
+      "Cheryl Marks",
+      "Debbie",
+      "Marguerite",
+      "Amy"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New Mutants #98 (February, 1991)"
+  },
+  {
+    "id": "catalogue-188",
+    "name": "Cottonmouth",
+    "identity": "Burchell Clemens",
+    "realm": "avengers",
+    "aliases": [
+      "Quincy McIver"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain America #310 (October, 1985)"
+  },
+  {
+    "id": "catalogue-191",
+    "name": "Crystal",
+    "identity": "Crystallia Amaquelin",
+    "realm": "attilan",
+    "aliases": [
+      "Crys",
+      "Exquisite Elemental"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #45 (1965)"
+  },
+  {
+    "id": "catalogue-198",
+    "name": "Dagger",
+    "identity": "Tandy Bowen",
+    "realm": "avengers",
+    "aliases": [
+      "Lady Light"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Spectacular Spiderman #64"
+  },
+  {
+    "id": "catalogue-202",
+    "name": "Darkhawk",
+    "identity": "Christopher Powell",
+    "realm": "avengers",
+    "aliases": [
+      "Bucket-Head",
+      "Edge-Man",
+      "Powell"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Darkhawk #1 (March, 1991)"
+  },
+  {
+    "id": "catalogue-206",
+    "name": "Darkstar",
+    "identity": "Laynia Petrovna",
+    "realm": "avengers",
+    "aliases": [
+      "Tyomni Zvesda"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Champions #7 (August, 1976)"
+  },
+  {
+    "id": "catalogue-211",
+    "name": "Dazzler",
+    "identity": "Alison Blaire",
+    "realm": "avengers",
+    "aliases": [
+      "Ali",
+      "The Disco Dazzler",
+      "Songbird",
+      "Dazz",
+      "Kimberly Schau",
+      "Ally"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #130 (1980)"
+  },
+  {
+    "id": "catalogue-215",
+    "name": "Deathlok",
+    "identity": "Luther Manning",
+    "realm": "avengers",
+    "aliases": [
+      "Demolisher"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Astonishing Tales #25 (August, 1974)"
+  },
+  {
+    "id": "catalogue-217",
+    "name": "Demogoblin",
+    "identity": "Demogoblin",
+    "realm": "avengers",
+    "aliases": [
+      "Jason Macendale Jr"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Web of Spider-Man #86 (March, 1992)"
+  },
+  {
+    "id": "catalogue-218",
+    "name": "Destroyer",
+    "identity": "Destroyer",
+    "realm": "asgard",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Journey into Mystery #118 (1965)"
+  },
+  {
+    "id": "catalogue-219",
+    "name": "Diamondback",
+    "identity": "Willis Stryker",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)"
+  },
+  {
+    "id": "catalogue-221",
+    "name": "Doc Samson",
+    "identity": "Leonard Samson",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Incredible Hulk #141 (July, 1971)"
+  },
+  {
+    "id": "catalogue-222",
+    "name": "Doctor Doom",
+    "identity": "Victor von Doom",
+    "realm": "latveria",
+    "aliases": [
+      "The Master",
+      "Invincible Man"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #5 (July 1962)"
+  },
+  {
+    "id": "catalogue-225",
+    "name": "Doctor Octopus",
+    "identity": "Otto Octavius",
+    "realm": "queens",
+    "aliases": [
+      "Doctor Octopus",
+      "Doc Ock",
+      "The Master Planner",
+      "The Master Programmer",
+      "Peter Benjamin Parker",
+      "Superior Spider-Man",
+      "Venom",
+      "Superior Venom"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #3 (July 1963)"
+  },
+  {
+    "id": "catalogue-227",
+    "name": "Domino",
+    "identity": "Neena Thurman",
+    "realm": "avengers",
+    "aliases": [
+      "Dom",
+      "Samantha Wu",
+      "Tamara Winter",
+      "Elena Vladescu",
+      "Jessica Marie Costello",
+      "Luisa Mendoza",
+      "Beatrice",
+      "Christina Elizabeth Alioso",
+      "Priscilla Sutherland",
+      "Hope Eldridge"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Force #8 (March, 1992)"
+  },
+  {
+    "id": "catalogue-231",
+    "name": "Doppelganger",
+    "identity": "Doppelganger",
+    "realm": "avengers",
+    "aliases": [
+      "The Spider-Man Doppelganger",
+      "Spider-Doppelganger",
+      "Mindless One"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Infinity War #1 (1992)"
+  },
+  {
+    "id": "catalogue-232",
+    "name": "Dormammu",
+    "identity": "Dormammu",
+    "realm": "sanctum",
+    "aliases": [
+      "The Dread One",
+      "Eater of Souls",
+      "Lord of Chaos",
+      "Lord of Darkness",
+      "the Great Enigma",
+      "Flyx"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Strange Tales #126 (1964)"
+  },
+  {
+    "id": "catalogue-234",
+    "name": "Drax the Destroyer",
+    "identity": "Arthur Sampson Douglas",
+    "realm": "knowhere",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Iron Man #55 (February, 1973)"
+  },
+  {
+    "id": "catalogue-235",
+    "name": "Ego",
+    "identity": "Ego",
+    "realm": "titan",
+    "aliases": [
+      "The Living Planet"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "THOR #132"
+  },
+  {
+    "id": "catalogue-237",
+    "name": "Electro",
+    "identity": "Maxwell Dillon",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #9 (1964)"
+  },
+  {
+    "id": "catalogue-238",
+    "name": "Elektra",
+    "identity": "Elektra Natchios",
+    "realm": "hellskitchen",
+    "aliases": [
+      "Erynys (evil self)"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Daredevil #168"
+  },
+  {
+    "id": "catalogue-248",
+    "name": "Evilhawk",
+    "identity": "Dargin Bokk",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Darkhawk #20 (October, 1992)"
+  },
+  {
+    "id": "catalogue-249",
+    "name": "Exodus",
+    "identity": "Bennet du Paris",
+    "realm": "avengers",
+    "aliases": [
+      "Paris Bennet"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Factor #92 (July, 1993)"
+  },
+  {
+    "id": "catalogue-251",
+    "name": "Falcon",
+    "identity": "Sam Wilson",
+    "realm": "avengers",
+    "aliases": [
+      "Sam Wilson",
+      "(formerly) Captain America",
+      "Blackbird",
+      "Blackwing",
+      "Brother Superhero"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain America #117 (September, 1969)"
+  },
+  {
+    "id": "catalogue-252",
+    "name": "Fallen One II",
+    "identity": "Fallen One II",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-254",
+    "name": "Feral",
+    "identity": "Maria Callasantos",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "NEW MUTANTS #99"
+  },
+  {
+    "id": "catalogue-256",
+    "name": "Fin Fang Foom",
+    "identity": "Fin Fang Foom",
+    "realm": "avengers",
+    "aliases": [
+      "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-257",
+    "name": "Firebird",
+    "identity": "Bonita Juarez",
+    "realm": "avengers",
+    "aliases": [
+      "Pajaro Del Fuego",
+      "La Espirita",
+      "Firemaiden"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265"
+  },
+  {
+    "id": "catalogue-258",
+    "name": "Firelord",
+    "identity": "Pyreus Kril",
+    "realm": "asgard",
+    "aliases": [
+      "Nova Centurion"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "THOR Vol. 1 #225"
+  },
+  {
+    "id": "catalogue-259",
+    "name": "Firestar",
+    "identity": "Angelica Jones",
+    "realm": "avengers",
+    "aliases": [
+      "Angel",
+      "Anj",
+      "Lady Comet"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #193 (May, 1985)"
+  },
+  {
+    "id": "catalogue-268",
+    "name": "Forge",
+    "identity": "Forge",
+    "realm": "avengers",
+    "aliases": [
+      "The Maker",
+      "Cheyenne"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #184"
+  },
+  {
+    "id": "catalogue-269",
+    "name": "Franklin Richards",
+    "identity": "Franklin  Richards",
+    "realm": "avengers",
+    "aliases": [
+      "Franklin Benjamin",
+      "Tattletale",
+      "Psi-Lord",
+      "Ego-Spawn",
+      "Avatar"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four Annual #6"
+  },
+  {
+    "id": "catalogue-270",
+    "name": "Franklin Storm",
+    "identity": "Dr. Franklin Storm",
+    "realm": "avengers",
+    "aliases": [
+      "Franklin Storm was erroneously believed to be the first Invincible Man"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "FANTASTIC FOUR #31"
+  },
+  {
+    "id": "catalogue-271",
+    "name": "Frenzy",
+    "identity": "Joanna Cargill",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Factor Vol 1 #4"
+  },
+  {
+    "id": "catalogue-273",
+    "name": "Galactus",
+    "identity": "Galan",
+    "realm": "titan",
+    "aliases": [
+      "Maker",
+      "Devourer of Worlds",
+      "Eater-of-Worlds",
+      "Ravager of Worlds"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #48 (March 1966)"
+  },
+  {
+    "id": "catalogue-275",
+    "name": "Gamora",
+    "identity": "Gamora Zen Whoberi Ben Titan",
+    "realm": "knowhere",
+    "aliases": [
+      "The Deadliest Woman In The Universe",
+      "The Most Dangerous Woman in the Galaxy"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Strange Tales #180 (June, 1975)"
+  },
+  {
+    "id": "catalogue-280",
+    "name": "Ghost Rider",
+    "identity": "Johnny Blaze",
+    "realm": "sanctum",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Spotlight #5 (August, 1972)"
+  },
+  {
+    "id": "catalogue-285",
+    "name": "Gladiator",
+    "identity": "Kallark",
+    "realm": "avengers",
+    "aliases": [
+      "Majestor",
+      "Praetor",
+      "Captain Universe"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men Vol 1 #107 October, 1977"
+  },
+  {
+    "id": "catalogue-286",
+    "name": "Goblin Queen",
+    "identity": "Madelyne Jennifer Pryor",
+    "realm": "queens",
+    "aliases": [
+      "Anodyne",
+      "Maddie",
+      "Lyne",
+      "Red",
+      "Madelyne Pryor-Summers"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #168"
+  },
+  {
+    "id": "catalogue-296",
+    "name": "Gravity",
+    "identity": "Greg Willis",
+    "realm": "avengers",
+    "aliases": [
+      "Protector of the Universe"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Gravity #1 (August, 2005)"
+  },
+  {
+    "id": "catalogue-299",
+    "name": "Green Goblin",
+    "identity": "Norman Osborn",
+    "realm": "queens",
+    "aliases": [
+      "Normie",
+      "Green Goblin",
+      "Goblin Lord",
+      "Overlord",
+      "the Goblin",
+      "\"Gobby\"",
+      "Scrier",
+      "Commander Osborn",
+      "Director Osborn",
+      "Iron Patriot"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #14 (July, 1964)"
+  },
+  {
+    "id": "catalogue-300",
+    "name": "Green Goblin II",
+    "identity": "Harold Osborn",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amzing Spide-Man #31"
+  },
+  {
+    "id": "catalogue-311",
+    "name": "Havok",
+    "identity": "Alexander Summers",
+    "realm": "xavier",
+    "aliases": [
+      "Mutant X",
+      "Goblin Prince"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-MEN #58"
+  },
+  {
+    "id": "catalogue-314",
+    "name": "Hawkeye II",
+    "identity": "Katherine Elizabeth Bishop",
+    "realm": "avengers",
+    "aliases": [
+      "Kate Bishop"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Young Avengers #1 (April, 2005)"
+  },
+  {
+    "id": "catalogue-323",
+    "name": "Hellcat",
+    "identity": "Patricia Walker",
+    "realm": "avengers",
+    "aliases": [
+      "Patsy Walker",
+      "Patricia Hellstrom",
+      "The Cat"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #144 (February, 1976)"
+  },
+  {
+    "id": "catalogue-325",
+    "name": "Hercules",
+    "identity": "Heracles",
+    "realm": "avengers",
+    "aliases": [
+      "Spider-Herc",
+      "The Lion of Olympus",
+      "The Defender of Olympus",
+      "The Scion of Olympus",
+      "Prince of Power",
+      "Alcaeus",
+      "Herakles",
+      "Herc",
+      "Harry Cleese",
+      "Victor Tegler",
+      "Agent 74"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-330",
+    "name": "Hope Summers",
+    "identity": "Hope Summers",
+    "realm": "avengers",
+    "aliases": [
+      "Mutant Messiah",
+      "Messiah Child",
+      "Hub",
+      "Throat Slicer",
+      "Little Girl",
+      "Little Momma"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men Vol 2 #205 (2008)"
+  },
+  {
+    "id": "catalogue-335",
+    "name": "Husk",
+    "identity": "Paige Elisabeth Guthrie",
+    "realm": "avengers",
+    "aliases": [
+      "Hayseed"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Rom Annual #3 (November, 1984)"
+  },
+  {
+    "id": "catalogue-336",
+    "name": "Hybrid",
+    "identity": "Scott Washington",
+    "realm": "avengers",
+    "aliases": [
+      "Guardsman Number Six",
+      "Terror of Brooklyn",
+      "Riot ,Phage ",
+      "Lasher",
+      "Agony"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Venom Along Came A Spider #2 (as Hybrid)"
+  },
+  {
+    "id": "catalogue-337",
+    "name": "Hydro-Man",
+    "identity": "Morris Bench",
+    "realm": "avengers",
+    "aliases": [
+      "Morrie"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #212 (January, 1981)"
+  },
+  {
+    "id": "catalogue-338",
+    "name": "Hyperion",
+    "identity": "Mark Milton",
+    "realm": "avengers",
+    "aliases": [
+      "Mark Milton",
+      "Zhib-Ran",
+      "Mr. Kant",
+      "Marcus Milton"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #85"
+  },
+  {
+    "id": "catalogue-339",
+    "name": "Iceman",
+    "identity": "Bobby Drake",
+    "realm": "xavier",
+    "aliases": [
+      "Bobby Drake",
+      "Mister Friese",
+      "Drake Roberts",
+      "Rampage",
+      "Frozen One",
+      "Iceface"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #1"
+  },
+  {
+    "id": "catalogue-343",
+    "name": "Ink",
+    "identity": "Eric Gitter",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Young X-Men #1 (May, 2008)"
+  },
+  {
+    "id": "catalogue-347",
+    "name": "Iron Monger",
+    "identity": "Obadiah Stane",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-350",
+    "name": "Jack of Hearts",
+    "identity": "Jonathan Hart",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)"
+  },
+  {
+    "id": "catalogue-358",
+    "name": "Jennifer Kale",
+    "identity": "Jennifer Kale",
+    "realm": "avengers",
+    "aliases": [
+      "Wendy the Good Little Witch"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(Adventures into) Fear#11 (1972)"
+  },
+  {
+    "id": "catalogue-369",
+    "name": "John Wraith",
+    "identity": "John Wraith",
+    "realm": "avengers",
+    "aliases": [
+      "Wraith-Man",
+      "Kestrel",
+      "Expediter",
+      "Guardian",
+      "Vindicator"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)"
+  },
+  {
+    "id": "catalogue-371",
+    "name": "Jolt",
+    "identity": "Helen Takahama",
+    "realm": "avengers",
+    "aliases": [
+      "Holly Tsuruta",
+      "Hallie Shimosato"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Thunderbolts #1 (1997)"
+  },
+  {
+    "id": "catalogue-374",
+    "name": "Juggernaut",
+    "identity": "Cain Marko",
+    "realm": "xavier",
+    "aliases": [
+      "Kuurth",
+      "Captain Universe"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #12 (July, 1965)"
+  },
+  {
+    "id": "catalogue-375",
+    "name": "Junkpile",
+    "identity": "Junkpile",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men 2099 #1 (October, 1993)"
+  },
+  {
+    "id": "catalogue-376",
+    "name": "Justice",
+    "identity": "Vance Astrovik",
+    "realm": "avengers",
+    "aliases": [
+      "Marvel Boy",
+      "Manglin' John Mahoney",
+      "Astounding Astrovik",
+      "Superhuman Penitentiary Prisoner 344678",
+      "\"Super Tights\""
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Giant-Size Defenders #5 (July, 1975)"
+  },
+  {
+    "id": "catalogue-391",
+    "name": "Kingpin",
+    "identity": "Wilson Grant Fisk",
+    "realm": "hellskitchen",
+    "aliases": [
+      "The Brain Washer",
+      "Harold Howard",
+      "Wilbur"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)"
+  },
+  {
+    "id": "catalogue-392",
+    "name": "Klaw",
+    "identity": "Ulysses Klaw",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #53 (August, 1966)"
+  },
+  {
+    "id": "catalogue-394",
+    "name": "Kraven II",
+    "identity": "Alyosha Kravinoff",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Spectacular Spider-Man #243 (1997)"
+  },
+  {
+    "id": "catalogue-395",
+    "name": "Kraven the Hunter",
+    "identity": "Sergei Kravinoff",
+    "realm": "queens",
+    "aliases": [
+      "Kraven the Hunter",
+      "World's Greatest Hunter",
+      "the Grim Hunter"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "The Amazing Spider-Man #15 (1964)"
+  },
+  {
+    "id": "catalogue-400",
+    "name": "Lady Deathstrike",
+    "identity": "Yuriko Oyama",
+    "realm": "avengers",
+    "aliases": [
+      "Ana Cortes"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Alpha Flight Vol. 1 #33 (1985)"
+  },
+  {
+    "id": "catalogue-401",
+    "name": "Leader",
+    "identity": "Samuel Sterns",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-402",
+    "name": "Leech",
+    "identity": "Leech",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #179"
+  },
+  {
+    "id": "catalogue-403",
+    "name": "Legion",
+    "identity": "David Haller",
+    "realm": "avengers",
+    "aliases": [
+      "Jack Wayne",
+      "Cyndi",
+      "Jemail Karami",
+      "Daniel Lucas Haller",
+      "Daniel Haller",
+      "Rodney",
+      "Ian",
+      "Lucas",
+      "Fanya",
+      "Boris",
+      "Zachary",
+      "Sylvester",
+      "God-Mutant"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New Mutants #25 (March, 1985)"
+  },
+  {
+    "id": "catalogue-409",
+    "name": "Living Brain",
+    "identity": "Living Brain",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #8 (1964)"
+  },
+  {
+    "id": "catalogue-410",
+    "name": "Living Tribunal",
+    "identity": "Living Tribunal",
+    "realm": "titan",
+    "aliases": [
+      "Living Trinity",
+      "Magistrate",
+      "High Judge of The Multiverse",
+      "Sir"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Strange Tales #157"
+  },
+  {
+    "id": "catalogue-412",
+    "name": "Lizard",
+    "identity": "Curtis Connors",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #6"
+  },
+  {
+    "id": "catalogue-415",
+    "name": "Longshot",
+    "identity": "Longshot",
+    "realm": "avengers",
+    "aliases": [
+      "The Lost Messiah",
+      "The Lucky One"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Longshot #1 (September, 1985)"
+  },
+  {
+    "id": "catalogue-419",
+    "name": "Luna",
+    "identity": "Luna Maximoff",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-421",
+    "name": "Mach-IV",
+    "identity": "Abner Jenkins",
+    "realm": "avengers",
+    "aliases": [
+      "Beetle",
+      "MACH-I",
+      "MACH-II",
+      "MACH-III",
+      "Matthew"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)"
+  },
+  {
+    "id": "catalogue-422",
+    "name": "Machine Man",
+    "identity": "X-51, Aaron Stack",
+    "realm": "avengers",
+    "aliases": [
+      "Sir McHinery",
+      "Mister Machine.Machine Man"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "First appearance unknown"
+  },
+  {
+    "id": "catalogue-425",
+    "name": "Magus",
+    "identity": "Magus",
+    "realm": "avengers",
+    "aliases": [
+      "Warlock's Father"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New Mutants #18 (1984)"
+  },
+  {
+    "id": "catalogue-428",
+    "name": "Man-Thing",
+    "identity": "Dr. Theodore Sallis",
+    "realm": "sanctum",
+    "aliases": [
+      "the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Savage Tales #1 (May, 1971)"
+  },
+  {
+    "id": "catalogue-429",
+    "name": "Man-Wolf",
+    "identity": "John Jameson",
+    "realm": "avengers",
+    "aliases": [
+      "Stargod",
+      "Vanwolf",
+      "Skywolf"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124"
+  },
+  {
+    "id": "catalogue-430",
+    "name": "Mandarin",
+    "identity": "Khan",
+    "realm": "latveria",
+    "aliases": [
+      "Tem Borjigin",
+      "Gene Kahn",
+      "Master Khan",
+      "Zhang Tong",
+      "Mandy"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Tales of Suspense #50 (February, 1964)"
+  },
+  {
+    "id": "catalogue-433",
+    "name": "Marvel Girl",
+    "identity": "Rachel Anne Summers",
+    "realm": "avengers",
+    "aliases": [
+      "Rachel Grey",
+      "formerly Phoenix",
+      "Mother Askani",
+      "Bright Lady",
+      "Aly'zrn Summerset"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "UNCANNY X-MEN #141"
+  },
+  {
+    "id": "catalogue-438",
+    "name": "Maverick",
+    "identity": "Christopher Bradley",
+    "realm": "avengers",
+    "aliases": [
+      "Chris",
+      "Bolt"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men Unlimited #8 (1995)"
+  },
+  {
+    "id": "catalogue-441",
+    "name": "Medusa",
+    "identity": "Medusalith Amaquelin Boltagon",
+    "realm": "attilan",
+    "aliases": [
+      "Madam Medusa",
+      "Queen Medusa"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)"
+  },
+  {
+    "id": "catalogue-443",
+    "name": "Mephisto",
+    "identity": "Mephisto",
+    "realm": "sanctum",
+    "aliases": [
+      "Satan; Mephistopheles",
+      "Lord of Evil",
+      "Prince of Devils",
+      "Prince of Lies",
+      "Lord of the Lower Depths",
+      "Satan",
+      "Beelzebub",
+      "the Devil",
+      "Maya",
+      "Lucifer",
+      "Nick Scratch",
+      "the Friend",
+      "Legion",
+      "numerous others; impersonated Don Blake",
+      "many others"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-452",
+    "name": "Mimic",
+    "identity": "Calvin Montgomery Rankin",
+    "realm": "avengers",
+    "aliases": [
+      "Cal",
+      "Wolverine",
+      "Calvin Rankin"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #19"
+  },
+  {
+    "id": "catalogue-458",
+    "name": "Mister Knife",
+    "identity": "J'son",
+    "realm": "avengers",
+    "aliases": [
+      "Jason of Spartax",
+      "Jason of Sparta",
+      "Star-Lord",
+      "Mr Knife"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)"
+  },
+  {
+    "id": "catalogue-460",
+    "name": "Mister Sinister",
+    "identity": "Nathaniel Essex",
+    "realm": "avengers",
+    "aliases": [
+      "Sinister",
+      "Robert Windsor",
+      "Arnold Bocklin",
+      "Mike Milbury",
+      "Apocalypse",
+      "Steven Shaffran",
+      "Edmond Atkinson",
+      "Nate",
+      "Administrator Pearson",
+      "Nosferatu",
+      "Nathan Milbury",
+      "Pale Man"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #221 (September, 1987)"
+  },
+  {
+    "id": "catalogue-462",
+    "name": "Mockingbird",
+    "identity": "Barbara Morse",
+    "realm": "avengers",
+    "aliases": [
+      "Barbara Morse-Barton",
+      "Roberta Morse",
+      "Agent 19",
+      "Huntress",
+      "Bobbi Van Dyne; once posed as Shooting Star"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Astonishing Tales #6 (June, 1971)"
+  },
+  {
+    "id": "catalogue-463",
+    "name": "MODOK",
+    "identity": "George Tarleton",
+    "realm": "latveria",
+    "aliases": [
+      "M.O.D.O.K.",
+      "Mental Organism Designed Only for Killing"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Tales of Suspense #93"
+  },
+  {
+    "id": "catalogue-467",
+    "name": "Molten Man",
+    "identity": "Mark Raxton",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #28 (1965)"
+  },
+  {
+    "id": "catalogue-471",
+    "name": "Moonstone",
+    "identity": "Karla Sofen",
+    "realm": "avengers",
+    "aliases": [
+      "Meteorite",
+      " Kate Sorenson"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)"
+  },
+  {
+    "id": "catalogue-472",
+    "name": "Morlun",
+    "identity": "Morlun",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #30 (2001)"
+  },
+  {
+    "id": "catalogue-474",
+    "name": "Moses Magnum",
+    "identity": "Moses Magnum",
+    "realm": "avengers",
+    "aliases": [
+      "Magnum Force,"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Giant-Size Spider-Man #4 (1975)"
+  },
+  {
+    "id": "catalogue-475",
+    "name": "Mr Immortal",
+    "identity": "Craig Hollis",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "West Coast Avengers Vol 2 #46"
+  },
+  {
+    "id": "catalogue-478",
+    "name": "Multiple Man",
+    "identity": "James Arthur",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4"
+  },
+  {
+    "id": "catalogue-479",
+    "name": "Mysterio",
+    "identity": "Quentin Beck",
+    "realm": "queens",
+    "aliases": [
+      "Nicholas Macabes",
+      "Rudolph Hines",
+      "Gerdes",
+      "Doctor Ludwig Rinehart"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #13 (1964)"
+  },
+  {
+    "id": "catalogue-480",
+    "name": "Mystique",
+    "identity": "Raven Darkholme",
+    "realm": "xavier",
+    "aliases": [
+      "Mallory Brickman"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18"
+  },
+  {
+    "id": "catalogue-483",
+    "name": "Namora",
+    "identity": "Aquaria Nautica Neptunia",
+    "realm": "avengers",
+    "aliases": [
+      "Sub-Mariner",
+      "Avenging Daughter",
+      "the Sea Beauty"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Mystery Comics #82 (1947)"
+  },
+  {
+    "id": "catalogue-484",
+    "name": "Namorita",
+    "identity": "Namorita Prentiss",
+    "realm": "avengers",
+    "aliases": [
+      "Kymaera",
+      "Hard"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)"
+  },
+  {
+    "id": "catalogue-487",
+    "name": "Nebula",
+    "identity": "Nebula",
+    "realm": "knowhere",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #257 (July, 1985)"
+  },
+  {
+    "id": "catalogue-488",
+    "name": "Negasonic Teenage Warhead",
+    "identity": "Ellie Phimister",
+    "realm": "avengers",
+    "aliases": [
+      "Warhead"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New X-Men #115"
+  },
+  {
+    "id": "catalogue-489",
+    "name": "Nick Fury",
+    "identity": "Nicholas Joseph Fury",
+    "realm": "avengers",
+    "aliases": [
+      "Doyle",
+      "The Mystery in the Mask",
+      "Patch",
+      "Scorpio"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)"
+  },
+  {
+    "id": "catalogue-490",
+    "name": "Nightcrawler",
+    "identity": "Kurt Wagner",
+    "realm": "xavier",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "GIANT-SIZE X-MEN #1"
+  },
+  {
+    "id": "catalogue-495",
+    "name": "Northstar",
+    "identity": "Jean-Paul Beaubier",
+    "realm": "avengers",
+    "aliases": [
+      "Jean-Paul Martin"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #120 (1979)"
+  },
+  {
+    "id": "catalogue-496",
+    "name": "Nova",
+    "identity": "Richard Rider",
+    "realm": "titan",
+    "aliases": [
+      "Rich",
+      "Bucket-Head",
+      "Human Rocket",
+      "Kid Nova",
+      "",
+      "Nova Prime",
+      "Quasar"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "NOVA Vol. 1 #1 (September, 1976)"
+  },
+  {
+    "id": "catalogue-497",
+    "name": "Nova",
+    "identity": "Frankie Raye",
+    "realm": "titan",
+    "aliases": [
+      "Frances Hyatt",
+      "Human Torch"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #164 (November, 1975)"
+  },
+  {
+    "id": "catalogue-498",
+    "name": "Odin",
+    "identity": "Odin Borson",
+    "realm": "asgard",
+    "aliases": [
+      "All-Father,Sky-Father",
+      "Atum-Re",
+      "Woden",
+      "Wotan",
+      "Oden",
+      "Orrin",
+      "Harbard",
+      "King of Asgard"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Journey into Mystery #85"
+  },
+  {
+    "id": "catalogue-503",
+    "name": "One-Above-All",
+    "identity": "One-Above-All",
+    "realm": "avengers",
+    "aliases": [
+      "One Above All"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Doctor Strange Vol 2 #13"
+  },
+  {
+    "id": "catalogue-504",
+    "name": "Onslaught",
+    "identity": "Onslaught",
+    "realm": "avengers",
+    "aliases": [
+      "Charlie Silus",
+      "Sir David The Great",
+      "Charles Xavier",
+      "Magneto",
+      "That Which Shall Survive",
+      "the Entity",
+      "Dark Xavier"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Man Vol 1 #15 (May, 1996)"
+  },
+  {
+    "id": "catalogue-518",
+    "name": "Plantman",
+    "identity": "Samuel Smithers",
+    "realm": "avengers",
+    "aliases": [
+      "Blackheath"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Strange Tales #113 (October, 1963)"
+  },
+  {
+    "id": "catalogue-523",
+    "name": "Polaris",
+    "identity": "Lorna Dane",
+    "realm": "xavier",
+    "aliases": [
+      "Pestilence",
+      "formerly Malice",
+      "Polarity",
+      "Magnetrix",
+      "M-2",
+      "Magneto the Second"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #49 (October, 1968)"
+  },
+  {
+    "id": "catalogue-527",
+    "name": "Professor X",
+    "identity": "Charles Francis Xavier",
+    "realm": "xavier",
+    "aliases": [
+      "Prof",
+      "Dr. X",
+      "Professor Xavier",
+      "formerly Prisoner M-13"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #1 (September, 1963)"
+  },
+  {
+    "id": "catalogue-531",
+    "name": "Purple Man",
+    "identity": "Zebediah Killgrave",
+    "realm": "avengers",
+    "aliases": [
+      "Kilgrave"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Daredevil #4 (October, 1964)"
+  },
+  {
+    "id": "catalogue-532",
+    "name": "Pyro",
+    "identity": "St. John Allerdyce",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-536",
+    "name": "Quicksilver",
+    "identity": "Pietro Django Maximoff",
+    "realm": "avengers",
+    "aliases": [
+      "Pietro Frank",
+      "Gypsy Davey",
+      "Mateo Maximoff"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-MEN Vol. 1 #4"
+  },
+  {
+    "id": "catalogue-537",
+    "name": "Quill",
+    "identity": "Maxwell Jordan",
+    "realm": "avengers",
+    "aliases": [
+      "Max"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New X-Men: Academy X #1"
+  },
+  {
+    "id": "catalogue-547",
+    "name": "Red Hulk",
+    "identity": "Thaddeus E. Ross",
+    "realm": "avengers",
+    "aliases": [
+      "Rulk",
+      "Hulk",
+      "Thunderbolt",
+      "General Ross"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)"
+  },
+  {
+    "id": "catalogue-550",
+    "name": "Red Skull",
+    "identity": "Johann Shmidt",
+    "realm": "latveria",
+    "aliases": [
+      "Dell Rusk",
+      "Bettman P. Lyles",
+      "the Agent of a Thousand Faces",
+      "The Man",
+      "Cyrus Fenton",
+      "Teacher",
+      "Tod March",
+      "John Smith",
+      "Aleksander Lukin."
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)"
+  },
+  {
+    "id": "catalogue-556",
+    "name": "Rhino",
+    "identity": "Aleksei Mikhailovich Sytsevich",
+    "realm": "avengers",
+    "aliases": [
+      "Alex O'Hirn",
+      "Mecha-Rhino"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #41"
+  },
+  {
+    "id": "catalogue-570",
+    "name": "Sabretooth",
+    "identity": "Victor Creed",
+    "realm": "xavier",
+    "aliases": [
+      "Slasher",
+      "El Tigre"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Iron Fist #14 (August, 1977)"
+  },
+  {
+    "id": "catalogue-571",
+    "name": "Sage",
+    "identity": "Tessa",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-MEN Vol. 1 #132"
+  },
+  {
+    "id": "catalogue-572",
+    "name": "Sandman",
+    "identity": "William Baker",
+    "realm": "queens",
+    "aliases": [
+      "Flint Marko",
+      "Sylvester Mann",
+      "Quarryman"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #4 (September, 1963)"
+  },
+  {
+    "id": "catalogue-573",
+    "name": "Sasquatch",
+    "identity": "Walter Langkowski",
+    "realm": "avengers",
+    "aliases": [
+      "Box",
+      "Wanda Langkowski"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-578",
+    "name": "Scarlet Spider II",
+    "identity": "Kaine Parker",
+    "realm": "queens",
+    "aliases": [
+      "Tarantula",
+      "Kaine",
+      "Ara?a Escarlata"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Web of Spider-Man #119 (December, 1994)"
+  },
+  {
+    "id": "catalogue-580",
+    "name": "Scorpia",
+    "identity": "Elaine Coll",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)"
+  },
+  {
+    "id": "catalogue-582",
+    "name": "Sebastian Shaw",
+    "identity": "Sebastian Hiram Shaw",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-583",
+    "name": "Sentry",
+    "identity": "Robert Reynolds",
+    "realm": "avengers",
+    "aliases": [
+      "Void",
+      "Bob",
+      "Golden Guardian of Good",
+      "John Victor Williams",
+      "Scout"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Sentry #1 (September, 2000)"
+  },
+  {
+    "id": "catalogue-584",
+    "name": "Shadow King",
+    "identity": "Amahl Farouk",
+    "realm": "avengers",
+    "aliases": [
+      "Professor X",
+      "Ananasi",
+      "Amahl Farouk",
+      "Evil One",
+      "Master of the Games; he also impersonated the following mind-controlled subjects (in chronological order): Alexander Flynn",
+      "Karma",
+      "Cypher",
+      "Jacob Reisz",
+      "Donald Pierce and probably others"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #117 (1979)"
+  },
+  {
+    "id": "catalogue-586",
+    "name": "Shadowcat",
+    "identity": "Kitty Pryde",
+    "realm": "xavier",
+    "aliases": [
+      "Kitty Pryde",
+      "Ariel",
+      "Sprite",
+      "Cat"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #129 (January, 1980)"
+  },
+  {
+    "id": "catalogue-587",
+    "name": "Shang-Chi",
+    "identity": "Shang-Chi",
+    "realm": "hellskitchen",
+    "aliases": [
+      "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Special Marvel Edition #15 (December, 1973)"
+  },
+  {
+    "id": "catalogue-588",
+    "name": "Shatterstar",
+    "identity": "Gaveedra Seven",
+    "realm": "avengers",
+    "aliases": [
+      "Benjamin Russell"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "New Mutants #99"
+  },
+  {
+    "id": "catalogue-589",
+    "name": "She-Hulk",
+    "identity": "Jennifer Walters",
+    "realm": "avengers",
+    "aliases": [
+      "Jade Giantess"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "She-Hulk (Vol. 1) #1"
+  },
+  {
+    "id": "catalogue-591",
+    "name": "Shocker",
+    "identity": "Herman Schultz",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #46"
+  },
+  {
+    "id": "catalogue-592",
+    "name": "Shriek",
+    "identity": "Frances Louise Barrison",
+    "realm": "avengers",
+    "aliases": [
+      "Sandra Deel"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-594",
+    "name": "Sif",
+    "identity": "Sif",
+    "realm": "asgard",
+    "aliases": [
+      "Lady Sif",
+      "Erika Velez",
+      "Mrs. Chambers",
+      "Sybil"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Journey into Mystery #102 (March, 1964)"
+  },
+  {
+    "id": "catalogue-595",
+    "name": "Silk",
+    "identity": "Cindy Moon",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man Vol 3 #4"
+  },
+  {
+    "id": "catalogue-598",
+    "name": "Silver Surfer",
+    "identity": "Norrin Radd",
+    "realm": "titan",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four, Vol. 1 #48"
+  },
+  {
+    "id": "catalogue-599",
+    "name": "Silverclaw",
+    "identity": "Maria de Guadalupe Santiago",
+    "realm": "avengers",
+    "aliases": [
+      "La Garra Argentado",
+      "Daughter of the Volcano God,"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #8 (1998)"
+  },
+  {
+    "id": "catalogue-604",
+    "name": "Siryn",
+    "identity": "Theresa Rourke Cassidy",
+    "realm": "avengers",
+    "aliases": [
+      "Theresa Rourke"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Spider-Woman (first series) #37"
+  },
+  {
+    "id": "catalogue-605",
+    "name": "Skaar",
+    "identity": "Skaar",
+    "realm": "avengers",
+    "aliases": [
+      "Savior",
+      "Son of Hulk",
+      "WorldBreaker",
+      "Long Hair",
+      "Little Monster",
+      "Conan"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "World War Hulk #5, 2007"
+  },
+  {
+    "id": "catalogue-607",
+    "name": "Snowbird",
+    "identity": "Narya",
+    "realm": "avengers",
+    "aliases": [
+      "Anne McKenzie-Thompson"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Uncanny X-Men #120"
+  },
+  {
+    "id": "catalogue-610",
+    "name": "Songbird",
+    "identity": "Melissa Joan Gold",
+    "realm": "avengers",
+    "aliases": [
+      "Screaming Mimi",
+      "Mimi Schwartz",
+      "Margie Green"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-618",
+    "name": "Spider-Girl",
+    "identity": "May 'Mayday' Parker",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "What If? Vol 2 #105 (February, 1998)"
+  },
+  {
+    "id": "catalogue-619",
+    "name": "Spider-Gwen",
+    "identity": "Gwen Stacy",
+    "realm": "queens",
+    "aliases": [
+      "Spider-Woman"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Edge of Spider-Verse #2"
+  },
+  {
+    "id": "catalogue-623",
+    "name": "Spider-Woman",
+    "identity": "Jessica Drew",
+    "realm": "queens",
+    "aliases": [
+      "Arachne",
+      "Ariadne Hyde",
+      "Dark Angel",
+      "Dark Angel of San Francisco"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Spotlight #32 (February, 1977)"
+  },
+  {
+    "id": "catalogue-625",
+    "name": "Spider-Woman III",
+    "identity": "Martha Franklin",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)"
+  },
+  {
+    "id": "catalogue-628",
+    "name": "Spyke",
+    "identity": "Evan Daniels",
+    "realm": "avengers",
+    "aliases": [
+      "Porcupine",
+      "Armadillo"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)"
+  },
+  {
+    "id": "catalogue-631",
+    "name": "Stardust",
+    "identity": "Stardust",
+    "realm": "avengers",
+    "aliases": [
+      "Entity Lambda-Zero"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-640",
+    "name": "Sunspot",
+    "identity": "Roberto DaCosta",
+    "realm": "xavier",
+    "aliases": [
+      "Robert DaCosta",
+      "Bobby; Black Rook",
+      "Black King",
+      "Reignfire"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)"
+  },
+  {
+    "id": "catalogue-646",
+    "name": "Swarm",
+    "identity": "Fritz von Meyer",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Champions #14 (July, 1977)"
+  },
+  {
+    "id": "catalogue-648",
+    "name": "Synch",
+    "identity": "Everett Thomas",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #36 (1994)"
+  },
+  {
+    "id": "catalogue-653",
+    "name": "Taskmaster",
+    "identity": "Tony Masters",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #195"
+  },
+  {
+    "id": "thanos",
+    "name": "Thanos",
+    "identity": "Thanos",
+    "realm": "titan",
+    "aliases": [
+      "The Mad Titan",
+      "Masterlord",
+      "The Overmaster",
+      "Chins"
+    ],
+    "source": "https://www.pngaaa.com/detail/2218424",
+    "firstAppearance": "Iron Man #55"
+  },
+  {
+    "id": "catalogue-660",
+    "name": "Thor Girl",
+    "identity": "Tarene",
+    "realm": "asgard",
+    "aliases": [
+      "Asgard Lass",
+      "the Designate",
+      "the Destroyer",
+      "Hammerette",
+      "Hammer Girl",
+      "Hammer Lass",
+      "Tara Olson",
+      "Spirit of the Jewel",
+      "the Supreme",
+      "Thoreta",
+      "Thorita",
+      "Thor Lass"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33"
+  },
+  {
+    "id": "catalogue-661",
+    "name": "Thunderbird",
+    "identity": "John Proudstar",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Giant-Size X-Men #1 (1975)"
+  },
+  {
+    "id": "catalogue-664",
+    "name": "Thunderstrike",
+    "identity": "Eric Kevin Masterson",
+    "realm": "avengers",
+    "aliases": [
+      "Thor"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1"
+  },
+  {
+    "id": "catalogue-665",
+    "name": "Thundra",
+    "identity": "Thundra",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #129 (December, 1972)"
+  },
+  {
+    "id": "catalogue-666",
+    "name": "Tiger Shark",
+    "identity": "Todd Arliss",
+    "realm": "avengers",
+    "aliases": [
+      "Arlys Tigershark"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Sub-Mariner #5 (September, 1968)"
+  },
+  {
+    "id": "catalogue-667",
+    "name": "Tigra",
+    "identity": "Greer Grant Nelson",
+    "realm": "avengers",
+    "aliases": [
+      "The Cat",
+      "Greer Sorenson"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "The Cat #1"
+  },
+  {
+    "id": "catalogue-668",
+    "name": "Tinkerer",
+    "identity": "Phineas Mason",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #2 (1963)"
+  },
+  {
+    "id": "catalogue-670",
+    "name": "Toad",
+    "identity": "Mortimer Toynbee",
+    "realm": "avengers",
+    "aliases": [
+      "The Terrible Toad-King"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men #4 (March, 1964)"
+  },
+  {
+    "id": "catalogue-671",
+    "name": "Toxin",
+    "identity": "Patrick Mulligan",
+    "realm": "avengers",
+    "aliases": [
+      "Larry"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Venom vs. Carnage #1 (2004)"
+  },
+  {
+    "id": "catalogue-677",
+    "name": "Triton",
+    "identity": "Triton",
+    "realm": "attilan",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)"
+  },
+  {
+    "id": "catalogue-679",
+    "name": "Ultragirl",
+    "identity": "Tsu-Zana",
+    "realm": "avengers",
+    "aliases": [
+      "Suzy Sherman",
+      "Ultra-Girl"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-681",
+    "name": "Utgard-Loki",
+    "identity": "Utgard-Loki",
+    "realm": "asgard",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "-"
+  },
+  {
+    "id": "catalogue-685",
+    "name": "Vanisher",
+    "identity": "Vanisher",
+    "realm": "avengers",
+    "aliases": [
+      "Telford Porter"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Men (Vol 1) #2"
+  },
+  {
+    "id": "catalogue-688",
+    "name": "Venom II",
+    "identity": "Angelo Fortunato",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Knights Spider-Man #7 (2005)"
+  },
+  {
+    "id": "catalogue-697",
+    "name": "Vision",
+    "identity": "Vision",
+    "realm": "avengers",
+    "aliases": [
+      "Victor Shade"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4"
+  },
+  {
+    "id": "catalogue-701",
+    "name": "Vulture",
+    "identity": "Adrian Toomes",
+    "realm": "queens",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Amazing Spider-Man #2"
+  },
+  {
+    "id": "catalogue-702",
+    "name": "Walrus",
+    "identity": "Hubert Carpent",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Defenders #131 (May, 1984)"
+  },
+  {
+    "id": "catalogue-703",
+    "name": "War Machine",
+    "identity": "James Rupert Rhodes",
+    "realm": "avengers",
+    "aliases": [
+      "Rhodey",
+      "Iron Man",
+      "Jim Rhodes"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Iron Man #118 (1979)"
+  },
+  {
+    "id": "catalogue-705",
+    "name": "Warlock",
+    "identity": "Adam Warlock",
+    "realm": "knowhere",
+    "aliases": [
+      "Him",
+      "(in an alternate future) the Magus"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #66"
+  },
+  {
+    "id": "catalogue-708",
+    "name": "Wasp",
+    "identity": "Janet Van Dyne",
+    "realm": "avengers",
+    "aliases": [
+      "Pixie"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "TALES TO ASTONISH #44"
+  },
+  {
+    "id": "catalogue-709",
+    "name": "Watcher",
+    "identity": "Uatu",
+    "realm": "titan",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Fantastic Four #13 (April, 1963)"
+  },
+  {
+    "id": "catalogue-716",
+    "name": "Wolfsbane",
+    "identity": "Rahne Sinclair",
+    "realm": "avengers",
+    "aliases": [
+      "Grimfang",
+      "Mutate #490"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Marvel Graphic Novel #4: New Mutants"
+  },
+  {
+    "id": "catalogue-719",
+    "name": "Wonder Man",
+    "identity": "Simon Williams",
+    "realm": "avengers",
+    "aliases": [
+      "Wondie",
+      "JQ-272712-K"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "AVENGERS #9"
+  },
+  {
+    "id": "catalogue-722",
+    "name": "Wyatt Wingfoot",
+    "identity": "Wyatt Wingfoot",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "FANTASTIC FOUR #50"
+  },
+  {
+    "id": "catalogue-723",
+    "name": "X-23",
+    "identity": "Laura Kinney",
+    "realm": "xavier",
+    "aliases": [
+      "Laura Logan",
+      "Laura Howlett",
+      "Laura X",
+      "Talon",
+      "Wolverine",
+      "X23"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "NYX #3"
+  },
+  {
+    "id": "catalogue-724",
+    "name": "X-Man",
+    "identity": "Nate Grey",
+    "realm": "xavier",
+    "aliases": [
+      "Nate the Great"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "X-Man #1 (1995)"
+  },
+  {
+    "id": "catalogue-727",
+    "name": "Yellowjacket II",
+    "identity": "Rita DeMara",
+    "realm": "avengers",
+    "aliases": [
+      "-"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "Avengers #264"
+  },
+  {
+    "id": "catalogue-728",
+    "name": "Ymir",
+    "identity": "Ymir",
+    "realm": "asgard",
+    "aliases": [
+      "Aurgelmir"
+    ],
+    "source": "https://github.com/akabab/superhero-api",
+    "firstAppearance": "JOURNEY INTO MYSTERY #97"
+  },
+  {
+    "id": "spider-man-tobey",
+    "name": "Spider-Man · Tobey Maguire",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "aliases": [
+      "Tobey Maguire",
+      "Peter Parker"
+    ],
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker"
+  },
+  {
+    "id": "spider-man-andrew",
+    "name": "Spider-Man · Andrew Garfield",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "aliases": [
+      "Andrew Garfield",
+      "Peter Parker"
+    ],
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker"
+  },
+  {
+    "id": "spider-man-tom",
+    "name": "Spider-Man · Tom Holland",
+    "identity": "Peter Parker",
+    "realm": "queens",
+    "aliases": [
+      "Tom Holland",
+      "Peter Parker"
+    ],
+    "source": "https://www.marvel.com/characters/spider-man-peter-parker"
+  }
+]
