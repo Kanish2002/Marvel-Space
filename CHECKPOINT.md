@@ -19,3 +19,7 @@ The archived `work-in-progress/pixel-world/` contains the earlier pixel-world at
 Distinct character-specific action poses, expanded full-body coverage, consistent pixel character artwork, and richer environment interactions remain unfinished. Current animation uses puppet frames derived from existing illustrations. The approximate 154-character artwork batch mentioned in earlier conversation is not a verified count of completed assets in this checkout; inspect the manifests before resuming that production work.
 
 Keep the available deployable edition working while extending artwork. Run the existing checks before publishing updates.
+
+## Zoom visibility fix
+
+The old renderer hid residents below 28% zoom. `scripts/prepare-overview.mjs` now mechanically downsamples all existing animation frames into one shared alpha atlas, preserving the original artwork and loop timing. `sprites.json` contains each resident's overview crops. The renderer draws and hit-tests residents at every zoom, and swaps to the original detailed sheets above the detail threshold. Rebuilding connected-world assets also rebuilds the overview atlas. Verification now includes 22 tests and 142 required runtime files.

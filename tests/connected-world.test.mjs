@@ -28,10 +28,40 @@ test('search exposes the full 292-entry archive without duplicating illustrated 
 test('each resident effect renders finite balanced commands and every sprite crop is valid',()=>{
   for(const a of actors)for(const t of [0,.3,1.8,4.7]){const c=context();drawActor(c,a,{},t,{active:true,labels:true,local:true});assert.equal(c.balance,0);assert(c.numbers.length>25);}
 });
-test('overview loads landscapes only; focus restores sheets and selection; stale focus cannot replace a later location',async()=>{
-  const w=makeWorld();await w.loadPlace('avengers');w.images.clear();await w.fitWorld();assert.equal(w.images.size,13);assert([...w.images.keys()].every(p=>p.startsWith('assets/')));
+test('overview loads landscapes and one animated atlas; focus restores detailed sheets and selection; stale focus cannot replace a later location',async()=>{
+  const w=makeWorld();await w.loadPlace('avengers');w.images.clear();await w.fitWorld();assert.equal(w.images.size,14);assert([...w.images.keys()].every(p=>p.startsWith('assets/')));assert(w.images.has(actors[0].overview.sheet));
   const a=actors.find(a=>a.id==='captain-america');await w.focusActor(a);assert.equal(w.place,'avengers');assert.equal(w.active,a.id);const p=PLACES.find(p=>p.id===a.place),x=(p.x+a.x-w.camera.x)*w.camera.zoom+w.width/2,y=(p.y+a.y-a.height*.45-w.camera.y)*w.camera.zoom+w.height/2;assert.equal(w.pick(x,y)?.id,a.id);
   const focus=w.focusActor(a);await w.focusPlace('titan');await focus;assert.equal(w.place,'titan');assert.equal(w.camera.x,PLACES.find(p=>p.id==='titan').x+TILE/2);w.destroy();
+});
+test('residents render and remain selectable below the old 28 percent cutoff, including minimum zoom',async()=>{
+  const w=makeWorld();await w.fitWorld();
+  const atlas=w.images.get(actors[0].overview.sheet),calls=[];
+  w.ctx.drawImage=(image,...args)=>calls.push({image,args});
+  for(const zoom of [.075,.15,.279]){
+    w.camera.zoom=zoom;calls.length=0;w.draw();
+    const visible=actors.filter(a=>w.visiblePlace(PLACES.find(p=>p.id===a.place)));
+    assert(visible.length>0);assert(calls.filter(c=>c.image===atlas).length>=visible.length);
+    assert.equal(w.artwork(visible[0]).image,atlas);
+  }
+  const a=actors.find(a=>a.id==='captain-america'),p=PLACES.find(p=>p.id===a.place);
+  w.camera={x:p.x+TILE/2,y:p.y+TILE/2,zoom:.15};
+  const x=(p.x+a.x-w.camera.x)*w.camera.zoom+w.width/2,y=(p.y+a.y-a.height*.45-w.camera.y)*w.camera.zoom+w.height/2;
+  assert.equal(w.pick(x,y)?.id,a.id);
+  w.camera.zoom=.5;await w.loadVisible();assert.equal(w.artwork(a).image,w.images.get(a.sheet));
+  w.camera.zoom=.15;assert.equal(w.artwork(a).image,atlas);w.destroy();
+});
+test('every overview frame preserves animation timing and fits inside the compact alpha atlas',async()=>{
+  const width=2000,height=Math.ceil(actors.length/5)*400;
+  assert((await stat(new URL(actors[0].overview.sheet,base))).size>10000);
+  for(const a of actors){
+    assert.equal(a.overview.frames.length,a.frames.length);
+    for(let i=0;i<a.frames.length;i++){
+      const f=a.overview.frames[i],original=a.frames[i];
+      assert.equal(f.width,original.width/4);assert.equal(f.height,original.height/4);
+      assert(f.x>=0&&f.y>=0&&f.x+f.width<=width&&f.y+f.height<=height);
+    }
+    assert.equal(frameAt(a,.3),frameAt({...a,frames:a.overview.frames},.3));
+  }
 });
 test('failed image requests can retry; pinch completion never selects a resident',async()=>{
   const w=makeWorld();await w.loadPlace('avengers');let attempts=0;globalThis.Image=class{set src(v){queueMicrotask(()=>++attempts===1?this.onerror?.():this.onload?.());}};

@@ -17,7 +17,7 @@ export async function verifyAssets(publicRoot=fileURLToPath(new URL('../public/'
   for(const character of CHARACTERS)for(const path of [character.body,character.sheet,character.portrait].filter(Boolean))add('',path);
   for(const place of PLACES)add('world',place.background);
   const manifest=JSON.parse(await readFile(resolve(publicRoot,'world/sprites.json'),'utf8'));
-  for(const actor of manifest.actors)add('world',actor.sheet);
+  for(const actor of manifest.actors){add('world',actor.sheet);if(actor.overview)add('world',actor.overview.sheet);}
   const missing=[];
   await Promise.all([...paths].map(async path=>{
     try{const file=await stat(resolve(publicRoot,path));if(!file.isFile()||!file.size)missing.push(path);}

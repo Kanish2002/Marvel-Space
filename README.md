@@ -44,7 +44,7 @@ The default page opens the connected world. `/world/` opens the same world direc
 | Arrow keys | Pan |
 | Escape | Close details / dialog |
 
-The overview loads backgrounds without decoding all 55 large sprite sheets. Artwork loading is limited to four concurrent requests; the cache discards older offscreen images. Failed requests can retry by reopening a location. A later location selection takes precedence over an earlier pending character focus.
+Characters remain visible and animated at every zoom level. The overview loads the backgrounds and one compact animated character atlas rather than decoding all 55 large sprite sheets. Zooming in loads detailed sheets; zooming out uses the atlas without hiding residents. Artwork loading is limited to four concurrent requests; the cache discards older offscreen images. Failed requests can retry by reopening a location. A later location selection takes precedence over an earlier pending character focus.
 
 ## Artwork and preparation
 
@@ -58,7 +58,7 @@ The overview loads backgrounds without decoding all 55 large sprite sheets. Artw
 
 ## Verification and remaining work
 
-The 20 tests cover both editions’ real application handlers, archive filtering and selection, the complete local asset graph, interrupted artwork transfers, atlas/crop bounds, negative-time and period wrapping, pointer-anchored zoom, pinch selection suppression, retryable and timed-out image requests, stale focus isolation, keyboard panning, paused and hidden redraw behavior, loader cleanup, landscape-only overview loading and finite balanced drawing commands for every effect.
+The 22 tests cover both editions’ real application handlers, archive filtering and selection, the complete local asset graph, interrupted artwork transfers, atlas/crop bounds, low-zoom character drawing and selection, animation-preserving detail switching, negative-time and period wrapping, pointer-anchored zoom, pinch selection suppression, retryable and timed-out image requests, stale focus isolation, keyboard panning, paused and hidden redraw behavior, loader cleanup, lightweight overview loading and finite balanced drawing commands for every effect.
 
 All 13 connected-world scenes were rendered and visually inspected. The production desktop browser was also checked for scene rendering, location navigation, directory search and character focus. Physical touch gestures and mobile-device performance have not been verified. See `DEPLOYMENT.md` for the bounded verification record.
 

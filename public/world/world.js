@@ -1,6 +1,7 @@
 import {PLACES,TILE,WORLD_WIDTH,WORLD_HEIGHT,placeById,actorBounds,frameAt} from './data.js';
 import {drawEffect} from '../js/world.js';
 export const IMAGE_TIMEOUT_MS=15000;
+export const DETAIL_ZOOM=.28;
 export const clamp=(n,min,max)=>Math.max(min,Math.min(max,n));
 export const screenToWorld=(camera,x,y,width,height)=>({x:(x-width/2)/camera.zoom+camera.x,y:(y-height/2)/camera.zoom+camera.y});
 export function zoomAt(camera,factor,x,y,width,height){
@@ -55,12 +56,13 @@ export class PixelWorld{
     }
   }
   trim(){
-    const keep=new Set(PLACES.filter(p=>this.visiblePlace(p)).flatMap(p=>[p.background,...this.actors.filter(a=>a.place===p.id).map(a=>a.sheet)]));
+    const keep=new Set([...this.actors.map(a=>a.overview?.sheet).filter(Boolean),...PLACES.filter(p=>this.visiblePlace(p)).flatMap(p=>[p.background,...this.actors.filter(a=>a.place===p.id).map(a=>a.sheet)])]);
     for(const key of this.images.keys())if(this.images.size>32&&!keep.has(key))this.images.delete(key);
   }
-  async loadPlace(id,includeActors=this.camera.zoom>=.28){
+  async loadPlace(id,includeActors=true){
     const p=placeById(id);if(!p)return;
-    const urls=[p.background,...(includeActors?[...new Set(this.actors.filter(a=>a.place===id).map(a=>a.sheet))]:[])];
+    const residents=this.actors.filter(a=>a.place===id);
+    const urls=[p.background,...(includeActors?[...new Set(residents.flatMap(a=>[a.overview?.sheet,...(this.camera.zoom>=DETAIL_ZOOM||!a.overview?[a.sheet]:[])]).filter(Boolean))]:[])];
     const results=await Promise.allSettled(urls.map(u=>this.load(u)));
     results.forEach((r,i)=>{if(!this.destroyed&&r.status==='rejected'&&!this.failed.has(urls[i])){this.failed.add(urls[i]);this.onError?.(r.reason.message);}});
   }
@@ -72,11 +74,13 @@ export class PixelWorld{
   async fitWorld(){
     this.generation++;this.overview=true;
     this.camera={x:WORLD_WIDTH/2,y:WORLD_HEIGHT/2,zoom:Math.max(.075,Math.min(this.width/(WORLD_WIDTH+100),this.height/(WORLD_HEIGHT+100)))};
-    this.invalidate();this.onZoom?.(this.camera.zoom);await Promise.all(PLACES.map(p=>this.loadPlace(p.id,false)));this.trim();
+    this.invalidate();this.onZoom?.(this.camera.zoom);await Promise.all(PLACES.map(p=>this.loadPlace(p.id)));this.trim();
   }
   async focusActor(a){
     if(a.reference){if(!placeById(a.place))return false;await this.focusPlace(a.place);return !this.destroyed;}
-    const pending=this.focusPlace(a.place),generation=this.generation;await pending;if(this.destroyed||generation!==this.generation||!this.images.has(a.sheet))return false;
+    const pending=this.focusPlace(a.place),generation=this.generation;await pending;if(this.destroyed||generation!==this.generation)return false;
+    try{await this.load(a.sheet);}catch(error){this.onError?.(error.message);return false;}
+    if(this.destroyed||generation!==this.generation||!this.images.has(a.sheet))return false;
     const p=placeById(a.place);this.active=a.id;
     this.camera={x:p.x+a.x,y:p.y+a.y-a.height*.5,zoom:Math.min(1.15,this.height/(a.height+460))};this.invalidate();this.onZoom?.(this.camera.zoom);return true;
   }
@@ -91,7 +95,12 @@ export class PixelWorld{
   constrain(){this.camera.x=clamp(this.camera.x,-150,WORLD_WIDTH+150);this.camera.y=clamp(this.camera.y,-150,WORLD_HEIGHT+150);}
   visiblePlace(p){if(!p)return false;const z=this.camera.zoom,x=(p.x-this.camera.x)*z+this.width/2,y=(p.y-this.camera.y)*z+this.height/2;return x<this.width&&y<this.height&&x+TILE*z>0&&y+TILE*z>0;}
   async loadVisible(){await Promise.all(PLACES.filter(p=>this.visiblePlace(p)).map(p=>this.loadPlace(p.id)));this.trim();}
-  pick(x,y){if(this.camera.zoom<.28)return null;const point=screenToWorld(this.camera,x,y,this.width,this.height);return [...this.ordered].reverse().find(a=>{if(!this.images.has(a.sheet))return false;const r=actorBounds(a);return point.x>=r.x&&point.x<=r.x+r.width&&point.y>=r.y&&point.y<=r.y+r.height;});}
+  artwork(a){
+    const overview=a.overview&&this.images.get(a.overview.sheet),detail=this.images.get(a.sheet);
+    if(overview&&(this.camera.zoom<DETAIL_ZOOM||!detail))return {image:overview,actor:{...a,frames:a.overview.frames}};
+    return detail?{image:detail,actor:a}:null;
+  }
+  pick(x,y){const point=screenToWorld(this.camera,x,y,this.width,this.height);return [...this.ordered].reverse().find(a=>{if(!this.artwork(a))return false;const r=actorBounds(a);return point.x>=r.x&&point.x<=r.x+r.width&&point.y>=r.y&&point.y<=r.y+r.height;});}
   down(e){const r=this.canvas.getBoundingClientRect();this.canvas.setPointerCapture(e.pointerId);this.pointers.set(e.pointerId,{x:e.clientX-r.left,y:e.clientY-r.top,sx:e.clientX,sy:e.clientY,moved:false});this.distance=this.pinchDistance();this.canvas.style.cursor='grabbing';}
   pinchDistance(){const p=[...this.pointers.values()];return p.length>1?Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y):0;}
   move(e){
@@ -113,7 +122,7 @@ export class PixelWorld{
       drawAmbient(c,p,this.time,z);
       if(z<.3){c.fillStyle='#081a24df';c.fillRect(p.x,p.y+TILE-112,TILE,112);c.font='bold 42px monospace';c.fillStyle='#dce0ca';c.textAlign='center';c.fillText(p.name,p.x+TILE/2,p.y+TILE-43);}
     }
-    if(z>=.28)for(const a of this.ordered){if(!this.visiblePlace(placeById(a.place)))continue;const im=this.images.get(a.sheet);if(im)drawActor(c,a,im,this.time,{active:this.active===a.id||this.hover===a.id,labels:this.labels&&z>.36});}
+    for(const a of this.ordered){if(!this.visiblePlace(placeById(a.place)))continue;const art=this.artwork(a);if(art)drawActor(c,art.actor,art.image,this.time,{active:this.active===a.id||this.hover===a.id,labels:this.labels&&z>.36});}
     c.restore();
   }
   destroy(){this.destroyed=true;cancelAnimationFrame(this.raf);this.observer.disconnect();for(const cancel of [...this.pendingImages])cancel();for(const args of this.handlers)this.canvas.removeEventListener(...args);for(const job of this.queue.splice(0))job.reject(new Error('World closed'));this.images.clear();}

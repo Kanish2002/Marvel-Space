@@ -172,7 +172,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "the-hood",
@@ -345,7 +470,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "jubilee",
@@ -526,7 +776,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "cyclops",
@@ -715,7 +1090,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "devil-dinosaur",
@@ -888,7 +1388,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 0,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "black-cat",
@@ -1069,7 +1694,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "white-fox",
@@ -1242,7 +1992,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "elsa-bloodstone",
@@ -1415,7 +2290,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "deadpool",
@@ -1604,7 +2604,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "rogue",
@@ -1789,7 +2914,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "gambit",
@@ -1973,7 +3223,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "daredevil",
@@ -2168,7 +3543,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "angela",
@@ -2341,7 +3841,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "blade",
@@ -2524,7 +4149,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "phoenix",
@@ -2697,7 +4447,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "ultron",
@@ -2887,7 +4762,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "emma-frost",
@@ -3069,7 +5069,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "the-thing",
@@ -3252,7 +5377,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "human-torch",
@@ -3434,7 +5684,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "invisible-woman",
@@ -3615,7 +5990,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "mister-fantastic",
@@ -3796,7 +6296,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "squirrel-girl",
@@ -3969,7 +6594,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "black-widow",
@@ -4160,7 +6910,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "wolverine",
@@ -4352,7 +7227,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "cloak-dagger",
@@ -4525,7 +7525,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 1900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "iron-fist",
@@ -4710,7 +7835,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "psylocke",
@@ -4893,7 +8143,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "hawkeye",
@@ -5079,7 +8454,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "iron-man",
@@ -5265,7 +8765,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "moon-knight",
@@ -5451,7 +9076,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "namor",
@@ -5643,7 +9393,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "star-lord",
@@ -5824,7 +9699,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "scarlet-witch",
@@ -6009,7 +10009,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "winter-soldier",
@@ -6191,7 +10316,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "magik",
@@ -6364,7 +10614,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2700,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "spider-man",
@@ -6559,7 +10934,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "black-panther",
@@ -6746,7 +11246,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "hela",
@@ -6927,7 +11552,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "storm",
@@ -7120,7 +11870,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "hulk",
@@ -7308,7 +12183,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 2900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3100,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "jeff-the-land-shark",
@@ -7481,7 +12481,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "the-punisher",
@@ -7681,7 +12806,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "luna-snow",
@@ -7854,7 +13104,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "adam-warlock",
@@ -8027,7 +13402,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "rocket-raccoon",
@@ -8210,7 +13710,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3400,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3500,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "loki",
@@ -8399,7 +14024,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "mantis",
@@ -8584,7 +14334,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "peni-parker",
@@ -8757,7 +14632,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "thor",
@@ -8941,7 +14941,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "magneto",
@@ -9126,7 +15251,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3600,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3700,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3800,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 3900,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "venom",
@@ -9299,7 +15549,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 0,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 0,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 80,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 160,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 240,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 320,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "groot",
@@ -9484,7 +15859,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 400,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 400,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 480,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 560,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 640,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 720,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "captain-america",
@@ -9666,7 +16166,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 800,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 800,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 880,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 960,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1040,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1120,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "doctor-strange",
@@ -9851,7 +16476,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1200,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1200,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1280,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1360,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1440,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1520,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     },
     {
       "id": "thanos",
@@ -10036,7 +16786,132 @@
         19
       ],
       "animationType": "illustrated-puppet",
-      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending"
+      "artStatus": "Existing 20-frame puppet sheet; distinct action poses pending",
+      "overview": {
+        "sheet": "assets/residents-overview.webp",
+        "frames": [
+          {
+            "x": 1600,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 4000,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 4100,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 4200,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1600,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1680,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1760,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1840,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          },
+          {
+            "x": 1920,
+            "y": 4300,
+            "width": 80,
+            "height": 100
+          }
+        ]
+      }
     }
   ]
 }

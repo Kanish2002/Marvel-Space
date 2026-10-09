@@ -1,6 +1,7 @@
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {createRequire} from 'node:module';
 import {RESIDENTS,CHARACTERS} from '../public/js/data.js';
+import {prepareOverview} from './prepare-overview.mjs';
 const require=createRequire(import.meta.url);
 let sharp;
 try {sharp=require('sharp');} catch {
@@ -53,6 +54,7 @@ const actors=RESIDENTS.map(c=>{
     sequence:Array.from({length:c.frames},(_,i)=>i),phase:c.phase*c.period,
     animationType:'illustrated-puppet',artStatus:'Existing 20-frame puppet sheet; distinct action poses pending'};
 });
+await prepareOverview(actors);
 await writeFile(new URL('sprites.json',destination),JSON.stringify({version:1,actors},null,2)+'\n');
 await writeFile(new URL('catalogue.json',destination),JSON.stringify(CHARACTERS,null,2)+'\n');
 await writeFile(new URL('assets/provenance.json',destination),JSON.stringify(provenance,null,2)+'\n');
