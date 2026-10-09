@@ -1,5 +1,7 @@
 # Marvel Space · Connected multiverse
 
+Live site: [Marvel Space](https://marvel-space-pi.vercel.app/). See [DEPLOYMENT.md](DEPLOYMENT.md) for the verified release and checks.
+
 Explore 13 detailed pixel-art locations across one continuous canvas. The latest connected-world edition is now the default page. The previous illustrated scene viewer remains available at `/illustrated.html`.
 
 ![Avengers Tower in the connected world](docs/connected-avengers.webp)
@@ -58,7 +60,7 @@ The overview loads backgrounds without decoding all 55 large sprite sheets. Artw
 
 The 20 tests cover both editions’ real application handlers, archive filtering and selection, the complete local asset graph, interrupted artwork transfers, atlas/crop bounds, negative-time and period wrapping, pointer-anchored zoom, pinch selection suppression, retryable and timed-out image requests, stale focus isolation, keyboard panning, paused and hidden redraw behavior, loader cleanup, landscape-only overview loading and finite balanced drawing commands for every effect.
 
-All 13 connected-world scenes were rendered and visually inspected. Browser layout, physical touch gestures and device performance have not been verified in this environment. These checks do not substitute for browser QA.
+All 13 connected-world scenes were rendered and visually inspected. The production desktop browser was also checked for scene rendering, location navigation, directory search and character focus. Physical touch gestures and mobile-device performance have not been verified. See `DEPLOYMENT.md` for the bounded verification record.
 
 Remaining work: distinct character-specific action poses, expanded full-body coverage, consistent pixel character art, richer character/environment interactions, and browser/device QA. Those are not reported as completed by the integration of the existing assets.
 

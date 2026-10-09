@@ -2,6 +2,8 @@
 
 The deployable edition is in `public/`, with the connected-world renderer in `public/world/`. Build output is `dist/`. Use the repository root, Other framework, and `npm run build` on Vercel. No runtime secrets or external artwork requests are required.
 
+Production is live at https://marvel-space-pi.vercel.app/. The verified release and browser checks are recorded in `DEPLOYMENT.md`.
+
 ## Available work
 
 - 13 connected landscapes, 55 full-body illustrated residents with 20-frame puppet loops, and 292 searchable character/variant records.
